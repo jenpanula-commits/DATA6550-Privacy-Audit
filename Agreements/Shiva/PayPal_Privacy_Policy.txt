@@ -1,0 +1,285 @@
+================================================================================
+                   PAYPAL HOLDINGS, INC. PRIVACY STATEMENT
+                    Consumer Privacy Notice (US Residents)
+================================================================================
+Effective Date: November 27, 2024
+Policy URL: https://www.paypal.com/us/legalhub/privacy-full
+Consumer Privacy Notice: https://www.paypal.com (Financial Privacy Notice)
+Provided by: PayPal, Inc., 2211 N. First St., San Jose, CA 95131
+Contact: https://www.paypal.com/us/privacy-center | 1-888-221-1161
+================================================================================
+
+FACTS
+WHAT DOES PAYPAL DO WITH YOUR PERSONAL INFORMATION?
+Rev. November 27, 2024
+
+--------------------------------------------------------------------------------
+WHY?
+--------------------------------------------------------------------------------
+Financial companies like PayPal choose how they share your personal information.
+Federal law gives consumers the right to limit some but not all sharing. Federal
+law also requires PayPal to tell you how it collects, shares, and protects your
+personal information. As a licensed money transmitter and financial services
+provider, PayPal is also subject to the Gramm-Leach-Bliley Act (GLBA), Bank
+Secrecy Act (BSA), USA PATRIOT Act, and FinCEN regulations — meaning a
+significant portion of data collection is legally mandated, not just commercial.
+
+Please read this notice carefully to understand what PayPal does.
+
+This policy applies to: PayPal accounts, Venmo (see separate Venmo policy),
+Braintree, Hyperwallet, Xoom, Honey, and other PayPal family products.
+
+--------------------------------------------------------------------------------
+WHAT INFORMATION DO WE COLLECT?
+--------------------------------------------------------------------------------
+The types of personal information PayPal collects depend on which products and
+services you use. This information can include:
+
+  IDENTITY AND KYC (KNOW YOUR CUSTOMER) DATA:
+  - Full legal name, date of birth, Social Security Number or Tax ID
+    (required by federal law for identity verification and AML compliance)
+  - Government-issued ID numbers and documentation
+  - Home address history
+
+  FINANCIAL DATA:
+  - Bank account numbers, debit and credit card numbers (stored via tokenization)
+  - Transaction history: purchases, sales, transfers, and refunds
+  - Linked account balances and payment method details
+  - PayPal Credit / Buy Now Pay Later data (if applicable)
+  - Products, preferences, sizes, and styles inferred from purchase history
+    (Note: Starting Summer 2025, this data may be shared with partner merchants
+    for personalized shopping — users are opted in by default and must
+    manually opt out via Settings > Data & Privacy > Personalized Shopping)
+
+  CONTACT AND COMMUNICATION DATA:
+  - Email address, phone number, and mailing address
+  - Communication preferences and customer service interaction records
+  - Marketing consent status
+
+  DEVICE AND TECHNICAL DATA:
+  - IP addresses and device fingerprinting (hardware characteristics,
+    browser configuration, operating system version)
+  - Cookie data and session identifiers
+  - Login patterns: frequency, time-of-day, and geographic location of access
+
+  THIRD-PARTY FINANCIAL AND FRAUD DATA:
+  - Credit bureau information (Experian, TransUnion, Equifax) for credit products
+  - Fraud signal data from financial intelligence networks and early warning
+    services
+  - Merchant data about transactions processed through PayPal
+  - Publicly available information about businesses (for merchant accounts)
+
+  BEHAVIORAL DATA:
+  - Feature usage patterns and product interaction data
+  - Shopping behavior inferred from payment patterns across PayPal-enabled
+    merchants (used for fraud detection, risk scoring, and — beginning 2025 —
+    personalized shopping recommendations)
+
+--------------------------------------------------------------------------------
+HOW DOES PAYPAL USE THIS INFORMATION?
+--------------------------------------------------------------------------------
+PayPal uses collected information for the following purposes:
+
+  - Process transactions and maintain your account(s)
+  - Verify your identity and comply with federal financial regulations
+    (BSA, AML, KYC, FinCEN reporting obligations)
+  - Detect and prevent fraud, unauthorized access, and financial crime
+  - Respond to court orders, legal investigations, and regulatory requirements
+  - Report to credit bureaus and consumer reporting agencies (where applicable)
+  - Communicate with you about your account, transactions, and services
+  - Market PayPal products and services to you (can opt out)
+  - Personalized shopping recommendations to partner merchants (Beginning 2025;
+    opt out via Settings > Data & Privacy > Personalized Shopping)
+  - Develop and improve PayPal products and services
+
+--------------------------------------------------------------------------------
+HOW DOES PAYPAL SHARE THIS INFORMATION?
+--------------------------------------------------------------------------------
+
+  REASON FOR SHARING                          PAYPAL SHARES?    CAN YOU LIMIT?
+  ─────────────────────────────────────────── ──────────────    ──────────────
+  For everyday business purposes—to process
+  your transactions, maintain your account,
+  respond to court orders and legal
+  investigations, or report to credit bureaus  Yes               No
+  For our marketing purposes—to offer our
+  products and services to you                Yes               No
+  For joint marketing with other financial
+  companies (e.g., insurance companies)       Yes               No
+  For our affiliates' everyday business
+  purposes—information about your
+  transactions and experiences                Yes               No
+  For our affiliates' everyday business
+  purposes—information about your
+  creditworthiness                            Yes               Yes
+  For our affiliates to market to you         Yes               Yes
+  For nonaffiliates (Partners/Merchants) for
+  personalized shopping (starting 2025;
+  default opt-in for most US users)           Yes               Yes
+  For nonaffiliates to market to you
+  (outside of personalized shopping)          No                N/A
+
+  IMPORTANT NOTE ON 2024-2025 POLICY UPDATE:
+  PayPal updated its Privacy Statement effective November 27, 2024 to allow
+  sharing of personal data — including products, preferences, sizes, and styles
+  — with partner merchants beginning Summer 2025. Most US users are automatically
+  opted IN to this sharing. California, North Dakota, and Vermont residents must
+  affirmatively opt in (not automatically enrolled).
+
+--------------------------------------------------------------------------------
+TO LIMIT SHARING / PRIVACY CONTROLS:
+--------------------------------------------------------------------------------
+  ■ To opt out of personalized shopping data sharing:
+      Log in > Settings > Data & Privacy > Manage Shared Info > Personalized
+      Shopping > Toggle OFF
+
+  ■ To opt out of affiliate marketing:
+      Call 1-888-221-1161 or visit your PayPal account privacy settings
+
+  ■ To opt out of interest-based marketing:
+      Settings > Notifications > Marketing > Manage preferences
+
+  ■ To download your data:
+      Settings > Data & Privacy > Download Your Data
+
+  ■ To submit a data rights request (access, correction, deletion):
+      paypal.com/privacy-center or call 1-888-221-1161
+
+  Please note: If you are a new customer, PayPal can begin sharing your
+  information 30 days from the date this notice was sent. When you are no
+  longer a PayPal customer, PayPal continues to share your information as
+  described in this notice. However, you can contact PayPal at any time to
+  limit sharing.
+
+  IMPORTANT RETENTION EXCEPTION: Federal financial regulations (BSA, AML) require
+  PayPal to retain transaction records for up to 7 years regardless of any
+  deletion request. The right to deletion is significantly qualified for financial
+  service data.
+
+  For questions: paypal.com/privacy-center | 1-888-221-1161
+
+--------------------------------------------------------------------------------
+WHO IS PROVIDING THIS NOTICE?
+--------------------------------------------------------------------------------
+This Privacy Statement is provided by PayPal, Inc., a wholly owned subsidiary
+of PayPal Holdings, Inc., incorporated in the State of Delaware, operating under
+the laws of the United States. PayPal is a licensed money transmitter in all
+50 US states and DC. Products covered by this policy include: PayPal (personal
+and business), PayPal Credit, PayPal Debit Card, and PayPal Savings.
+Venmo, Braintree, Xoom, and Honey have supplemental or separate policies.
+
+--------------------------------------------------------------------------------
+HOW DOES PAYPAL PROTECT YOUR INFORMATION?
+--------------------------------------------------------------------------------
+  - Security measures that comply with federal financial law (GLBA)
+  - Computer safeguards: firewalls, encryption (256-bit SSL), tokenization of
+    payment card data to PCI DSS standards
+  - Secured physical facilities and access controls at data centers
+  - Fraud monitoring systems and real-time transaction risk scoring
+  - Data governance program with retention periods based on legal and regulatory
+    requirements
+  - Privacy Impact Assessment process for new data uses
+
+--------------------------------------------------------------------------------
+HOW LONG IS YOUR INFORMATION RETAINED?
+--------------------------------------------------------------------------------
+PayPal retains personal information based on legal, regulatory, and business
+requirements:
+
+  - Transaction records: Up to 7 years (required by BSA/AML regulations)
+  - Account data: Retained while account is active; deleted after a reasonable
+    period post-closure subject to legal holds
+  - Marketing data: Retained until you opt out or close your account
+  - Fraud and security data: Retained as required for investigations and law
+
+  IMPORTANT: The 7-year financial record retention requirement means that
+  deletion rights are significantly limited for PayPal compared to non-financial
+  services. Users cannot fully delete financial transaction records during the
+  mandatory retention window even upon account closure.
+
+--------------------------------------------------------------------------------
+YOUR PRIVACY RIGHTS
+--------------------------------------------------------------------------------
+  Access:         Settings > Data & Privacy > Download Your Data (account data
+                  summary); or submit a request at paypal.com/privacy-center
+  Correction:     Account Settings > Personal Info (name, address, contact info);
+                  government-verified information requires identity re-verification
+  Deletion:       Account closure available; financial records retained 7 years
+  Portability:    Data download available in PDF summary format
+  Opt-Out (marketing): Settings > Notifications > Marketing Preferences
+  Opt-Out (personalized shopping 2025): Settings > Data & Privacy > Personalized
+                  Shopping > Toggle OFF
+  CCPA Rights:    paypal.com/privacy-center (45-day response)
+  GDPR Rights:    dpo@paypal.com or your national Data Protection Authority
+
+--------------------------------------------------------------------------------
+POLICY UPDATES
+--------------------------------------------------------------------------------
+PayPal will post updates to its Privacy Statement on the PayPal website and
+provide notice of material changes. For changes that reduce your rights or
+increase your responsibilities, PayPal will post notice at least 30 days before
+the change becomes effective.
+
+Current Version: Effective November 27, 2024
+Policy Updates Page: https://www.paypal.com/us/legalhub/upcoming-policies-full
+
+--------------------------------------------------------------------------------
+DEFINITIONS
+--------------------------------------------------------------------------------
+  Affiliates:      Companies related by common ownership or control, including
+                   PayPal Credit, PayPal Debit, Venmo, Braintree, Hyperwallet,
+                   Xoom, Honey, and other PayPal Holdings subsidiaries.
+  Nonaffiliates:   Companies not related by common ownership or control,
+                   including partner merchants, service providers, financial
+                   institutions, credit bureaus, and fraud detection networks.
+  Joint Marketing: A formal agreement between nonaffiliated financial companies
+                   that together market financial products or services to you
+                   (e.g., co-branded cards with banks or insurance partners).
+  KYC:             Know Your Customer — identity verification requirements
+                   mandated by federal anti-money-laundering regulations.
+
+--------------------------------------------------------------------------------
+OTHER IMPORTANT INFORMATION
+--------------------------------------------------------------------------------
+  California Residents (CCPA/CPRA):
+    California residents are NOT automatically opted in to the personalized
+    shopping data sharing that begins in 2025. You must affirmatively consent.
+    You have rights to know, correct, delete (subject to financial retention
+    exceptions), and limit the use of sensitive personal information. Submit
+    requests at: paypal.com/privacy-center | Response within 45 days.
+
+  Virginia Residents (VCDPA):
+    You have rights to access, correct, delete (subject to financial retention
+    exceptions), and port your data, and to opt out of targeted advertising.
+    Submit requests via paypal.com/privacy-center.
+
+  Vermont Residents:
+    Vermont residents will not be automatically opted in to the personalized
+    shopping data sharing. Affirmative consent is required. PayPal will not
+    disclose your personal information, financial information, or credit
+    information to nonaffiliated third parties to market to you, other than as
+    permitted by Vermont law.
+
+  North Dakota Residents:
+    North Dakota residents are NOT automatically opted in to the personalized
+    shopping data sharing that begins in 2025. Affirmative consent required.
+
+  Nevada Residents:
+    You may call 1-888-221-1161 or visit paypal.com to be placed on PayPal's
+    Do Not Call list. For more information, contact the Nevada Bureau of Consumer
+    Protection: 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101 |
+    1-702-486-3132 | BCPINFO@ag.state.nv.us.
+
+  EU/EEA/UK Residents (GDPR/UK GDPR):
+    PayPal relies on Standard Contractual Clauses (SCCs) for international data
+    transfers. Lawful basis for financial processing is contractual necessity and
+    legal obligation. You have rights to access, erasure (subject to financial
+    retention), portability, restriction, and objection. Contact:
+    dpo@paypal.com or your national Data Protection Authority.
+
+================================================================================
+Questions? Contact PayPal Privacy Center: https://www.paypal.com/us/privacy-center
+Phone: 1-888-221-1161
+Full Privacy Statement: https://www.paypal.com/us/legalhub/privacy-full
+Consumer Privacy Notice (Financial/GLBA): https://www.paypal.com (account login)
+================================================================================

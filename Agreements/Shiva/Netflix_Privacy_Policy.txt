@@ -1,0 +1,230 @@
+================================================================================
+                       NETFLIX, INC. PRIVACY STATEMENT
+                         Consumer Privacy Notice
+================================================================================
+Effective Date: November 2023 (with updates through 2024)
+Policy URL: https://help.netflix.com/legal/privacy
+Contact: privacy@netflix.com | Data Protection Officer: privacy@netflix.com
+Provided by: Netflix, Inc., 100 Winchester Circle, Los Gatos, CA 95032
+================================================================================
+
+FACTS
+WHAT DOES NETFLIX DO WITH YOUR PERSONAL INFORMATION?
+Rev. November 2023 / Updated 2024
+
+--------------------------------------------------------------------------------
+WHY?
+--------------------------------------------------------------------------------
+Netflix is an internet television streaming service offering movies, TV shows,
+documentaries, and other content. When you sign up for a Netflix membership,
+you provide personal information to create your account and access the service.
+Netflix collects and uses this information to deliver, personalize, and improve
+the streaming experience, to process payments, and — for members on the
+ad-supported plan — to serve relevant advertisements through its ad technology
+partner, Microsoft Advertising.
+
+This Privacy Statement explains how Netflix collects, uses, discloses, and
+protects your personal information, and what rights and choices you have.
+
+--------------------------------------------------------------------------------
+WHAT INFORMATION DO WE COLLECT?
+--------------------------------------------------------------------------------
+The types of personal information Netflix collects depend on your membership
+plan and how you use the service. This information can include:
+
+  ACCOUNT AND SUBSCRIPTION DATA:
+  - Name, email address, postal/ZIP code, and phone number
+  - Password and account credentials
+  - Subscription tier (ad-supported or standard/premium)
+  - Payment method information: credit/debit card number, expiration date,
+    billing address (processed via third-party payment partners)
+
+  VIEWING AND USAGE DATA:
+  - Titles watched, searched for, and browsed within Netflix
+  - Playback behavior: completion percentage, pause points, rewind events,
+    and time/date of viewing
+  - Ratings, reviews, and content preferences you provide
+  - User interface navigation and how you browse the content catalog
+  - Search history within the Netflix platform
+
+  DEVICE AND TECHNICAL DATA:
+  - IP address (used to infer general location and for security purposes)
+  - Device type (TV, phone, tablet, computer), device identifiers
+  - Browser type, operating system, and screen resolution
+  - Network provider and connection speed
+  - Application version and crash/diagnostic data
+
+  MARKETING AND AD DATA (Ad-Supported Plan):
+  - Viewing context and content categories viewed (for ad targeting)
+  - Ad interaction data (whether you viewed, paused, or skipped an ad)
+  - Unique identifiers provided by advertisers (cookies, device identifiers)
+  - Demographic and interest information from advertising partners
+
+  INFORMATION FROM THIRD PARTIES:
+  - Advertising Companies: Advertisers on Netflix may provide unique identifiers
+    and demographic data to support ad delivery and measurement
+  - Partners (smart TV manufacturers, ISPs, device platforms) if you access
+    Netflix through a partner integration
+  - Publicly available social media sources (where you have tagged Netflix
+    publicly)
+
+  INFORMATION COLLECTED USING COOKIES AND TRACKING TECHNOLOGIES:
+  - Cookies, pixel tags, and web beacons used to recognize your device,
+    maintain session information, and support analytics and advertising
+
+--------------------------------------------------------------------------------
+HOW DOES NETFLIX USE THIS INFORMATION?
+--------------------------------------------------------------------------------
+Netflix uses collected information for the following purposes:
+
+  - Provide and deliver the Netflix streaming service and process payments
+  - Personalize your experience: content recommendations based on viewing
+    history, ratings, and browsing behavior
+  - Analyze and improve the service: research, testing, and performance analysis
+  - Communicate with you: service updates, account notifications, and marketing
+    emails (you can opt out of marketing emails at any time)
+  - Support content acquisition: aggregate viewing data may inform decisions
+    about which content to license or produce (in de-identified form to studios)
+  - Serve advertising (ad-supported plan): deliver targeted ads through
+    Microsoft Advertising using viewing context and audience data
+  - Protect the service: detect fraud, abuse, and unauthorized account sharing
+
+--------------------------------------------------------------------------------
+HOW DOES NETFLIX SHARE THIS INFORMATION?
+--------------------------------------------------------------------------------
+
+  REASON FOR SHARING                          NETFLIX SHARES?   CAN YOU LIMIT?
+  ─────────────────────────────────────────── ──────────────    ──────────────
+  Within Netflix family of companies          Yes               No
+  With payment processors
+  (Stripe, Braintree, and similar)            Yes               No
+  With content partners / studios
+  (aggregate, de-identified data only)        Yes               No
+  With ad partners (Microsoft Advertising)
+  — Ad-Supported Plan only                    Yes               Partial
+  With analytics and research providers       Yes               No
+  With Netflix Marketing Providers
+  (for marketing Netflix on third-party sites) Yes              Partial
+  With service providers and contractors      Yes               No
+  For legal compliance and law enforcement    Yes               No
+  Personal data sold to nonaffiliates         No                N/A
+  (Netflix states it does not sell user data
+  in the traditional sense; some ad-related
+  sharing may qualify as "sharing" under CCPA)
+
+--------------------------------------------------------------------------------
+TO LIMIT SHARING / PRIVACY CONTROLS:
+--------------------------------------------------------------------------------
+  * Download Personal Info   – Account > Security & Privacy > Download Personal
+                               Info (submitted requests processed within 30 days)
+  * Marketing Email Opt-Out  – Unsubscribe link in any Netflix marketing email,
+                               or Account > Communication Settings
+  * Do Not Sell/Share (CCPA) – netflix.com/dns (California and applicable users)
+  * Cookie Management        – Cookie preferences banner or browser settings
+  * Ad Preferences (Ad-Supported Plan) – Account Settings > Manage Ads
+
+  Please note: Netflix does not operate a third-party advertising marketplace
+  like Google or Meta. Advertising on Netflix is managed through Microsoft
+  Advertising and is limited to the ad-supported subscription tier.
+
+  For questions: privacy@netflix.com
+
+--------------------------------------------------------------------------------
+WHO IS PROVIDING THIS NOTICE?
+--------------------------------------------------------------------------------
+This Privacy Statement is provided by Netflix, Inc., incorporated in the State
+of Delaware, with principal offices at 100 Winchester Circle, Los Gatos, CA
+95032. For users in the European Economic Area (EEA), UK, and Switzerland, the
+responsible entity is Netflix International B.V. (Stroombaan 10, 1181 VX
+Amstelveen, Netherlands).
+
+--------------------------------------------------------------------------------
+HOW DOES NETFLIX PROTECT YOUR INFORMATION?
+--------------------------------------------------------------------------------
+  - Reasonable administrative, logical, physical, and managerial security
+    measures to safeguard information against loss, theft, and unauthorized access
+  - Encryption of payment data via PCI-DSS compliant payment processors
+  - Secure account authentication with optional two-factor authentication
+  - Regular internal security reviews and third-party security assessments
+
+--------------------------------------------------------------------------------
+HOW LONG IS YOUR INFORMATION RETAINED?
+--------------------------------------------------------------------------------
+Netflix retains personal information for as long as necessary to provide the
+service and fulfill legal, contractual, or business obligations. After account
+deletion, most personal data is deleted or de-identified within a reasonable
+technical window, subject to:
+  - Legal or regulatory retention requirements (e.g., financial records)
+  - Ongoing fraud investigations or security reviews
+  - Contractual obligations to content partners
+
+Viewing history and account activity data is retained for as long as your
+account is active and for a period after deletion as required by law.
+
+--------------------------------------------------------------------------------
+YOUR PRIVACY RIGHTS
+--------------------------------------------------------------------------------
+  Access:         Account > Security & Privacy > Download Personal Info
+  Correction:     Account > Membership > Change email, name, or account details
+  Deletion:       Account > Help > How do I cancel? or contact privacy@netflix.com
+  Portability:    Download Personal Info provides a machine-readable export
+  Opt-Out Ads:    Not applicable for standard plans; Ad settings for ad-tier
+  CCPA Rights:    netflix.com/dns | privacy@netflix.com (30-day response)
+  GDPR Rights:    privacy@netflix.com | Contact your national DPA if unresolved
+
+--------------------------------------------------------------------------------
+POLICY UPDATES
+--------------------------------------------------------------------------------
+Netflix will provide notice of material changes to this Privacy Statement by
+email to the address on your account and/or by posting a notice within the
+Netflix service. The updated policy will be identified by a new effective date.
+
+Current Version: November 2023 (updated through 2024)
+Previous versions available through Netflix Help Center.
+
+--------------------------------------------------------------------------------
+DEFINITIONS
+--------------------------------------------------------------------------------
+  Netflix Service:  The streaming platform, websites, apps, and features
+                    operated by Netflix, Inc. and its affiliates.
+  Partners:         Smart TV manufacturers, ISPs, device platforms, or other
+                    companies with whom Netflix has a formal integration
+                    agreement (e.g., Apple TV, Roku, Amazon Fire TV).
+  Advertising Cos.: Advertisers, Ad Service Providers, and ad measurement
+                    companies involved in Netflix's ad-supported service.
+  Service Providers: Third-party companies that process data on Netflix's behalf
+                    under contractual restrictions on secondary use.
+
+--------------------------------------------------------------------------------
+OTHER IMPORTANT INFORMATION
+--------------------------------------------------------------------------------
+  California Residents (CCPA/CPRA):
+    Netflix may engage in certain ad-related data sharing that constitutes
+    "sharing" under CPRA. You can opt out at netflix.com/dns. You have rights
+    to know, access, correct, delete, and limit use of sensitive personal
+    information. Netflix does not knowingly sell or share the personal
+    information of anyone under 16 years of age. Response within 30 days.
+
+  Virginia Residents (VCDPA):
+    You have rights to access, correct, delete, and port your data, and to opt
+    out of targeted advertising. Submit requests via privacy@netflix.com.
+
+  Nevada Residents:
+    You may opt out of any future sale of your covered information by contacting
+    Netflix at privacy@netflix.com.
+
+  EU/EEA/UK Residents (GDPR/UK GDPR):
+    Netflix relies on Standard Contractual Clauses (SCCs) for international data
+    transfers. You have rights to access, erasure, portability, restriction, and
+    objection. Contact: privacy@netflix.com or your national Data Protection
+    Authority. No major GDPR enforcement actions have been taken against Netflix
+    as of the date of this document.
+
+  Children:
+    Netflix is not intended for children under 13 without parental supervision.
+    Netflix Kids profiles restrict content to age-appropriate titles.
+
+================================================================================
+Questions? Contact Netflix at: privacy@netflix.com
+Full Privacy Statement: https://help.netflix.com/legal/privacy
+================================================================================
