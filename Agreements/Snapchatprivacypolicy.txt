@@ -1,0 +1,66 @@
+================================================================================
+                         SNAP INC. PRIVACY POLICY
+                         Consumer Privacy Notice
+================================================================================
+Effective Date: April 7, 2025
+Policy URL: https://values.snap.com/privacy/privacy-policy
+Provided by: Snap Inc.
+================================================================================
+
+FACTS
+WHAT DOES SNAPCHAT DO WITH YOUR PERSONAL INFORMATION?
+
+--------------------------------------------------------------------------------
+WHAT INFORMATION DO WE COLLECT?
+--------------------------------------------------------------------------------
+Snapchat collects the following types of personal information:
+
+  INFORMATION YOU PROVIDE:
+  - Name, username, email, phone number, birthday
+  - Profile picture, Bitmoji
+  - Content such as photos, videos, chats, and messages
+
+  INFORMATION COLLECTED AUTOMATICALLY:
+  - Usage data (stories viewed, filters used, interactions)
+  - Device data (IP address, OS, browser, device sensors)
+  - Location data (GPS, IP-based location)
+  - Metadata (time, date, engagement)
+
+  INFORMATION FROM THIRD PARTIES:
+  - Advertisers and partners
+  - Contact lists from other users
+  - Linked apps and services
+
+--------------------------------------------------------------------------------
+HOW IS YOUR INFORMATION USED?
+--------------------------------------------------------------------------------
+  - Provide and maintain services
+  - Personalize content and advertisements
+  - Recommend friends and content
+  - Improve app features and AI systems
+  - Ensure security and prevent fraud
+
+--------------------------------------------------------------------------------
+HOW IS YOUR INFORMATION SHARED?
+--------------------------------------------------------------------------------
+  - With service providers and partners
+  - With advertisers (personalized ads)
+  - For legal and regulatory purposes
+  - With other users based on your privacy settings
+
+--------------------------------------------------------------------------------
+PRIVACY CONTROLS:
+--------------------------------------------------------------------------------
+  - Access and update your data
+  - Delete your account and content
+  - Control who sees your content
+  - Download your data
+  - Opt out of ads
+
+--------------------------------------------------------------------------------
+IMPORTANT NOTES:
+--------------------------------------------------------------------------------
+  - Messages may disappear but can be saved or screenshotted
+  - Snapchat collects behavioral and location data
+
+================================================================================

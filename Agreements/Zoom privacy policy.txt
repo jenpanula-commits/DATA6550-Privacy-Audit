@@ -1,0 +1,56 @@
+================================================================================
+                         ZOOM COMMUNICATIONS PRIVACY STATEMENT
+================================================================================
+Effective Date: February 2, 2026
+Policy URL: https://explore.zoom.us/privacy
+================================================================================
+
+FACTS
+WHAT DOES ZOOM DO WITH YOUR PERSONAL INFORMATION?
+
+--------------------------------------------------------------------------------
+WHAT INFORMATION DO WE COLLECT?
+--------------------------------------------------------------------------------
+  INFORMATION YOU PROVIDE:
+  - Name, email, account details
+  - Meeting registration data
+
+  INFORMATION COLLECTED AUTOMATICALLY:
+  - Device data (IP, OS, hardware)
+  - Usage data (meeting activity)
+  - Audio, video, chat content (meeting data)
+
+  INFORMATION FROM THIRD PARTIES:
+  - Integrated apps (calendar, email)
+  - Business partners
+
+--------------------------------------------------------------------------------
+HOW IS YOUR INFORMATION USED?
+--------------------------------------------------------------------------------
+  - Provide video conferencing services
+  - Improve product performance
+  - Ensure security and prevent fraud
+  - Customer support
+
+--------------------------------------------------------------------------------
+HOW IS YOUR INFORMATION SHARED?
+--------------------------------------------------------------------------------
+  - With meeting hosts and participants
+  - With service providers
+  - With third-party integrations
+  - For legal purposes
+
+--------------------------------------------------------------------------------
+PRIVACY CONTROLS:
+--------------------------------------------------------------------------------
+  - Manage meeting settings
+  - Control recordings
+  - Adjust account privacy settings
+
+--------------------------------------------------------------------------------
+IMPORTANT NOTES:
+--------------------------------------------------------------------------------
+  - Meeting hosts can record sessions
+  - Zoom does not use meeting content for AI training
+
+================================================================================
