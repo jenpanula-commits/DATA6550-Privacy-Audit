@@ -1,0 +1,191 @@
+================================================================================
+                         GOOGLE LLC PRIVACY POLICY
+                         Consumer Privacy Notice
+================================================================================
+Effective Date: April 2, 2026
+Policy URL: https://policies.google.com/privacy
+Provided by: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043
+Contact: https://support.google.com/policies | 1-650-253-0000
+================================================================================
+
+FACTS
+WHAT DOES GOOGLE DO WITH YOUR PERSONAL INFORMATION?
+Rev. April 2026
+
+--------------------------------------------------------------------------------
+WHY?
+--------------------------------------------------------------------------------
+Google builds a range of services — including Search, Gmail, YouTube, Maps,
+Chrome, Android, and Google Home — that help millions of people daily. When you
+use these services, you trust Google with your information. This Privacy Policy
+explains what information is collected, why it is collected, and how you can
+update, manage, export, and delete your information.
+
+--------------------------------------------------------------------------------
+WHAT INFORMATION DO WE COLLECT?
+--------------------------------------------------------------------------------
+The types of personal information Google collects depend on how you use its
+services. This information can include:
+
+  INFORMATION YOU PROVIDE DIRECTLY:
+  - Name, email address, password, and phone number (when creating an account)
+  - Payment information (for Google Pay, Play Store, and other purchases)
+  - Content you create, upload, or receive: emails, photos, documents, comments
+  - Contact information from your address book or communications
+
+  INFORMATION COLLECTED AUTOMATICALLY:
+  - Device identifiers, browser type, operating system, and application version
+  - IP address, mobile network information, and crash reports
+  - Search terms, videos watched, voice and audio information (Google Assistant)
+  - Location data: GPS, Wi-Fi access points, cell towers, Bluetooth signals
+  - Activity on third-party sites and apps that use Google services (ads,
+    analytics, Google Sign-In, reCAPTCHA, embedded Maps)
+  - Chrome browsing history synced with your Google Account
+  - Purchase activity and calling/messaging logs (Google services)
+
+  INFORMATION FROM THIRD PARTIES:
+  - Directory services and marketing partners (business information for ads)
+  - Security partners (data to protect against abuse and fraud)
+  - Advertisers and publishers (ad performance and audience data)
+  - Publicly accessible sources (e.g., local news indexed by Google Search)
+
+--------------------------------------------------------------------------------
+HOW DOES GOOGLE USE THIS INFORMATION?
+--------------------------------------------------------------------------------
+Google uses collected information for the following purposes:
+
+  - Provide services (process searches, deliver emails, enable Maps navigation)
+  - Maintain and improve services (troubleshoot issues, fix outages)
+  - Develop new services (using insights from existing products)
+  - Personalize content and advertising (recommendations, customized ads via
+    My Ad Center; Google does NOT personalize ads based on sensitive categories
+    such as race, religion, sexual orientation, or health)
+  - Measure performance (analytics for Google services and advertisers)
+  - Communicate with you (security alerts, service announcements)
+  - Protect Google, users, and the public (fraud prevention, spam detection)
+
+--------------------------------------------------------------------------------
+HOW DOES GOOGLE SHARE THIS INFORMATION?
+--------------------------------------------------------------------------------
+
+  REASON FOR SHARING                          GOOGLE SHARES?    CAN YOU LIMIT?
+  ─────────────────────────────────────────── ──────────────    ──────────────
+  With advertisers (aggregated/interest-based,
+  NOT your name or email unless you request)  Yes               Partial
+  With third-party app developers (via APIs
+  and Google Sign-In, per user permissions)   Yes               Yes (per app)
+  Across Google's product ecosystem
+  (Search, Gmail, YouTube, Maps, etc.)        Yes               Partial
+  With service providers and contractors      Yes               No
+  For legal compliance and law enforcement    Yes               No
+  During business transfers (merger/sale)     Yes               No
+  With nonaffiliates to market to you         No                N/A
+
+--------------------------------------------------------------------------------
+TO LIMIT SHARING / PRIVACY CONTROLS:
+--------------------------------------------------------------------------------
+Google provides several tools to manage your privacy:
+
+  * My Ad Center         – myadcenter.google.com  (manage ad personalization)
+  * Google Takeout       – takeout.google.com     (download / export your data)
+  * My Activity          – myactivity.google.com  (review or delete activity)
+  * Privacy Checkup      – myaccount.google.com/privacycheckup
+  * Location controls    – Device Settings > Location (Android/iOS)
+  * Web & App Activity   – Account Settings > Data & Privacy
+
+  Please note: Turning off personalization may limit features but does not stop
+  all data collection. Base logging, security, and service data are always
+  collected. Your choices apply to your account across all devices signed in.
+
+  For questions: https://support.google.com/policies
+
+--------------------------------------------------------------------------------
+WHO IS PROVIDING THIS NOTICE?
+--------------------------------------------------------------------------------
+This Privacy Policy is provided by Google LLC, a subsidiary of Alphabet Inc.,
+organized under the laws of the State of Delaware, USA, operating under US law.
+For users in the European Economic Area (EEA) or Switzerland, the responsible
+entity is Google Ireland Limited. This policy covers all Google apps, sites,
+devices, and products that reference it, including Search, Gmail, YouTube, Maps,
+Drive, Photos, Chrome, Android, Google Pay, Google Play, and Google Home.
+
+--------------------------------------------------------------------------------
+HOW DOES GOOGLE PROTECT YOUR INFORMATION?
+--------------------------------------------------------------------------------
+Google uses industry-standard security measures including:
+  - Encryption of data in transit and at rest
+  - Two-Step Verification and Security Checkup tools
+  - Hundreds of millions of dollars invested annually in security infrastructure
+  - World-renowned security expert teams dedicated to data protection
+  - Regular security reviews and audits of internal systems
+
+--------------------------------------------------------------------------------
+HOW LONG IS YOUR INFORMATION RETAINED?
+--------------------------------------------------------------------------------
+Retention periods vary by data type and are described in detail at:
+https://policies.google.com/privacy#inforetaining
+
+  - Some data (e.g., search history) is auto-deleted after 18 months by default
+  - Activity controls can be set to delete automatically after 3 or 18 months
+  - Account data is retained as long as your account exists
+  - Some data may be retained longer for legal, safety, or business reasons
+
+--------------------------------------------------------------------------------
+YOUR PRIVACY RIGHTS
+--------------------------------------------------------------------------------
+  Access:       Google Account > Data & Privacy; or Google Takeout
+  Correction:   Edit directly in your Google Account profile settings
+  Deletion:     Delete individual activity via My Activity; or delete account
+  Portability:  Google Takeout (50+ Google products, JSON/ZIP formats)
+  Opt-Out Ads:  My Ad Center > Turn off Ad Personalization
+  CCPA Rights:  Submit via https://support.google.com/policies (45-day response)
+  GDPR Rights:  Contact privacy@google.com (EU/EEA users)
+
+--------------------------------------------------------------------------------
+POLICY UPDATES
+--------------------------------------------------------------------------------
+Google will provide prominent notice of material changes to this Privacy Policy,
+including banners within Google products and email notification for significant
+updates. You can view archived versions of previous policies at:
+https://policies.google.com/privacy/archive
+
+Current Version: April 2, 2026
+Previous versions available at the archive URL above.
+
+--------------------------------------------------------------------------------
+DEFINITIONS
+--------------------------------------------------------------------------------
+  Affiliates:    Companies related to Google through Alphabet Inc., including
+                 YouTube, Google DeepMind, Waymo, and other Alphabet companies.
+  Nonaffiliates: Third-party advertisers, publishers, app developers, data
+                 analytics providers, and other external partners.
+  Personal Info: Information that can identify you directly or indirectly,
+                 including device identifiers and IP addresses.
+
+--------------------------------------------------------------------------------
+OTHER IMPORTANT INFORMATION
+--------------------------------------------------------------------------------
+  California Residents (CCPA/CPRA):
+    Google does not sell your personal information. You may opt out of sharing
+    for targeted advertising. Submit CCPA rights requests at:
+    https://support.google.com/policies | Response within 45 days.
+
+  Virginia Residents (VCDPA):
+    You have the right to access, correct, delete, and port your data, and to
+    opt out of targeted advertising and profiling. Submit requests via the
+    Google Account privacy settings or the CCPA request form above.
+
+  Nevada Residents:
+    You may opt out of any future sale of your covered information by contacting
+    Google at the support link above.
+
+  EU/EEA/UK Residents (GDPR/UK GDPR):
+    Google relies on Standard Contractual Clauses (SCCs) for international data
+    transfers. You have rights to access, erasure, portability, restriction, and
+    objection. Contact: privacy@google.com or your national data protection
+    authority.
+
+================================================================================
+Questions? Contact Google at: https://support.google.com/policies
+Download this policy as PDF: https://www.gstatic.com/policies/privacy/pdf/
+================================================================================

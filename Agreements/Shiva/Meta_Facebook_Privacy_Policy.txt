@@ -1,0 +1,217 @@
+================================================================================
+                    META PLATFORMS, INC. PRIVACY POLICY
+                        Consumer Privacy Notice
+================================================================================
+Effective Date: January 1, 2023 (with updates through 2024-2025)
+Policy URL: https://www.facebook.com/privacy/policy/
+US Regional Notice: https://www.facebook.com/privacy/policies/uso/
+Provided by: Meta Platforms, Inc., 1 Meta Way, Menlo Park, CA 94025
+Contact: https://www.facebook.com/help | privacy@fb.com
+================================================================================
+
+FACTS
+WHAT DOES META DO WITH YOUR PERSONAL INFORMATION?
+Rev. 2024–2025
+
+--------------------------------------------------------------------------------
+WHY?
+--------------------------------------------------------------------------------
+Meta builds products — including Facebook, Instagram, Messenger, and Threads —
+that help people connect with friends, family, communities, and businesses. To
+provide these services and keep them free to users, Meta relies on advertising
+revenue, which requires collecting and using personal information to serve
+relevant ads. This Privacy Policy explains what information Meta collects,
+how it is used and shared, and what rights and controls you have.
+
+This policy applies to: Facebook, Instagram, Messenger, and Threads.
+This policy does NOT cover: WhatsApp, Workplace, Messenger Kids, Quest devices
+(without a Facebook account), or Free Basics (each has its own privacy policy).
+
+--------------------------------------------------------------------------------
+WHAT INFORMATION DO WE COLLECT?
+--------------------------------------------------------------------------------
+The types of personal information Meta collects depend on how you use its
+products. This information can include:
+
+  INFORMATION YOU PROVIDE DIRECTLY:
+  - Name, email address, phone number, date of birth, gender, and profile photo
+  - Relationship status, education, employment history, and interests (profile)
+  - Posts, photos, videos, Stories, Reels, and comments you create or share
+  - Messages and communications (metadata collected; content encrypted in some
+    products; private messages with friends/family excluded from AI training)
+  - Payment information (for Facebook/Instagram shopping features)
+
+  INFORMATION COLLECTED AUTOMATICALLY:
+  - Behavioral data: likes, reactions, shares, viewing time, scroll behavior,
+    ad engagement actions, and content interactions
+  - Off-platform data: browsing and purchase behavior on third-party websites
+    and apps via the Meta Pixel, Conversions API, and Social Plugins
+    (collected even if you do not have a Facebook/Instagram account)
+  - Device identifiers, hardware specs, OS version, and app version
+  - Wi-Fi network, Bluetooth signals, IP address, and mobile network data
+  - Location data: GPS (if permitted), IP-based inference, and location tags
+  - Cookie data from devices and browsers across Meta's services
+
+  INFERRED / DERIVED DATA:
+  - Interest categories, behavioral profiles, and inferred sensitive attributes
+    (which may include political views, religious beliefs, socioeconomic status)
+    used to build advertising profiles — even from off-platform activity
+
+  INFORMATION FROM THIRD PARTIES:
+  - Advertisers, app developers, and publishers (via Meta Business Tools, APIs,
+    SDKs, and the Meta Pixel)
+  - Other Meta Companies (Instagram, WhatsApp, Messenger) per their own terms
+  - Third-party data brokers and partners who have rights to share with Meta
+
+--------------------------------------------------------------------------------
+HOW DOES META USE THIS INFORMATION?
+--------------------------------------------------------------------------------
+Meta uses collected information for the following purposes:
+
+  - Personalize your experience (content rankings, friend suggestions, ads)
+  - Provide and improve Meta Products (research, testing, troubleshooting)
+  - Show targeted advertising based on your profile, behavior, and interests
+    (Note: Meta was ruled by the CJEU in 2023 to be unable to rely on
+    "legitimate interest" as a legal basis for behavioral advertising in the EU)
+  - Support AI at Meta (including AI-generated content and AI features;
+    user-shared content such as posts and photos may be used; private messages
+    with friends/family are excluded from AI training)
+  - Promote safety, security, and integrity across Meta products
+  - Conduct research and surveys about Meta products and services
+  - Communicate with you about policy changes, security, and features
+
+--------------------------------------------------------------------------------
+HOW DOES META SHARE THIS INFORMATION?
+--------------------------------------------------------------------------------
+
+  REASON FOR SHARING                          META SHARES?      CAN YOU LIMIT?
+  ─────────────────────────────────────────── ──────────────    ──────────────
+  Within Meta family of companies
+  (Facebook, Instagram, Messenger, Threads)   Yes               No
+  With advertisers (behavioral profiles and
+  interest categories; NOT direct identifiers
+  like name/email unless you give permission) Yes               Partial
+  With third-party measurement companies
+  (Nielsen, comScore, ad measurement)         Yes               Partial
+  With app developers and publishers
+  (via Meta Business Tools and SDKs)          Yes               Partial
+  With service providers and contractors      Yes               No
+  For legal compliance and law enforcement    Yes               No
+  During business transfers (merger/sale)     Yes               No
+  Personal data sold to nonaffiliates         No                N/A
+  (Meta states it does not sell user data)
+
+--------------------------------------------------------------------------------
+TO LIMIT SHARING / PRIVACY CONTROLS:
+--------------------------------------------------------------------------------
+  * Ad Preferences         – facebook.com/ads/preferences
+  * Off-Facebook Activity  – facebook.com/off_facebook_activity
+    (disconnect future off-platform activity; does not delete historical data)
+  * Download Your Info     – facebook.com/dyi (access or download your data)
+  * Transfer Your Info     – transfer photos/videos to Google Photos, Dropbox,
+                              Apple iCloud
+  * Privacy Checkup        – facebook.com/privacy/checkup
+  * Account Deletion       – Settings > Your Facebook Information > Deactivation
+                              and Deletion (30-day grace period applies)
+
+  Please note: Meta has been cited by EU regulators for dark patterns in opt-out
+  flows that make opting out more difficult than opting in. The Irish DPC issued
+  a record €1.2 billion fine against Meta in 2023 for GDPR violations relating
+  to data transfers to the United States.
+
+  For questions: https://www.facebook.com/help | privacy@fb.com
+
+--------------------------------------------------------------------------------
+WHO IS PROVIDING THIS NOTICE?
+--------------------------------------------------------------------------------
+This Privacy Policy is provided by Meta Platforms, Inc., a corporation
+incorporated in the State of Delaware, headquartered in Menlo Park, California.
+For users in the European Economic Area (EEA), the responsible entity is Meta
+Platforms Ireland Limited (4 Grand Canal Square, Dublin 2, Ireland).
+
+--------------------------------------------------------------------------------
+HOW DOES META PROTECT YOUR INFORMATION?
+--------------------------------------------------------------------------------
+  - Encryption in transit and at rest for many product features
+  - Two-factor authentication (strongly encouraged, available for all accounts)
+  - Automated abuse detection and account integrity systems
+  - Dedicated security and trust & safety teams
+  - Security Help Center: https://www.facebook.com/help/security
+
+--------------------------------------------------------------------------------
+HOW LONG IS YOUR INFORMATION RETAINED?
+--------------------------------------------------------------------------------
+Meta retains personal information for as long as it is necessary to provide
+products and services and to comply with legal obligations. Deleted account data
+is processed within a 30-day grace period (during which you can cancel deletion)
+followed by a 90-day technical deletion window. Some data may be retained longer
+for legal compliance, safety investigations, or regulatory requirements.
+
+Content you've shared (messages to others, posts others have reacted to) may
+remain in others' accounts even after you delete your account.
+
+--------------------------------------------------------------------------------
+YOUR PRIVACY RIGHTS
+--------------------------------------------------------------------------------
+  Access:         Settings > Your Facebook Information > Download Your Info
+  Correction:     Edit directly in your profile settings
+  Deletion:       Settings > Your Facebook Information > Deactivation & Deletion
+  Portability:    Transfer Your Information tool (photos/videos to other clouds)
+  Opt-Out Ads:    Ad Preferences > Interest-Based Advertising
+  Object (EU):    Meta Right to Object form (available in privacy settings)
+  CCPA Rights:    facebook.com/privacy/policies/uso/ (30-day response)
+  GDPR Rights:    Contact Meta's Data Protection Officer or your national DPA
+
+--------------------------------------------------------------------------------
+POLICY UPDATES
+--------------------------------------------------------------------------------
+Meta will provide notice of material changes before they take effect, including
+in-app banners and notifications. Users will have an opportunity to review the
+revised policy before continuing to use Meta products.
+
+Current Effective Version: January 1, 2023 (updated through 2024–2025)
+Previous versions: https://www.facebook.com/privacy/policy/
+
+--------------------------------------------------------------------------------
+DEFINITIONS
+--------------------------------------------------------------------------------
+  Meta Companies:  Facebook, Instagram, Messenger, Threads, and related
+                   Meta-owned services (each may have separate policies).
+  Meta Pixel:      A code snippet placed on third-party websites that sends
+                   browsing activity data back to Meta for ad targeting purposes.
+  Nonaffiliates:   Third-party advertisers, data brokers, app developers, and
+                   other external companies not owned by Meta.
+
+--------------------------------------------------------------------------------
+OTHER IMPORTANT INFORMATION
+--------------------------------------------------------------------------------
+  California Residents (CCPA/CPRA):
+    Meta does not sell your personal information as defined under CCPA. You have
+    rights to know, correct, delete, and limit the use of sensitive personal
+    information. Submit requests at: https://www.facebook.com/privacy/policies/uso/
+    Response within 30 days.
+
+  Virginia Residents (VCDPA):
+    You have rights to access, correct, delete, and port your data, and to opt
+    out of targeted advertising. Submit requests via your Facebook Account
+    Settings or the US Regional Privacy Notice above.
+
+  Nevada Residents:
+    You may opt out of any future sale of your covered information by contacting
+    Meta at privacy@fb.com or through your Facebook Account Settings.
+
+  EU/EEA/UK Residents (GDPR/UK GDPR):
+    Meta relies on Standard Contractual Clauses (SCCs) for international data
+    transfers. You have rights to access, erasure, portability, restriction,
+    objection, and to lodge a complaint with your national Data Protection
+    Authority (DPA). Contact: https://www.facebook.com/help/contact/1758255661104383
+
+  Vermont Residents:
+    Meta will not share your personal information with nonaffiliated third
+    parties for marketing purposes except as permitted by Vermont law.
+
+================================================================================
+Questions? Contact Meta at: https://www.facebook.com/help
+Privacy Policy: https://www.facebook.com/privacy/policy/
+US Regional Notice: https://www.facebook.com/privacy/policies/uso/
+================================================================================

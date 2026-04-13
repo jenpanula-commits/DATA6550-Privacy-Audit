@@ -1,0 +1,60 @@
+================================================================================
+                         UBER TECHNOLOGIES PRIVACY NOTICE
+================================================================================
+Effective Date: March 26, 2026
+Policy URL: https://www.uber.com/privacy
+================================================================================
+
+FACTS
+WHAT DOES UBER DO WITH YOUR PERSONAL INFORMATION?
+
+--------------------------------------------------------------------------------
+WHAT INFORMATION DO WE COLLECT?
+--------------------------------------------------------------------------------
+  INFORMATION YOU PROVIDE:
+  - Name, phone number, email
+  - Payment information
+  - Profile details
+
+  INFORMATION COLLECTED AUTOMATICALLY:
+  - Real-time GPS location
+  - Trip history (pickup, drop, time)
+  - Device and usage data
+  - Communication data (calls, messages)
+
+  INFORMATION FROM THIRD PARTIES:
+  - Business partners
+  - Identity verification services
+  - Marketing partners
+
+--------------------------------------------------------------------------------
+HOW IS YOUR INFORMATION USED?
+--------------------------------------------------------------------------------
+  - Match riders with drivers
+  - Track trips and navigation
+  - Process payments
+  - Improve safety and prevent fraud
+  - Personalize services
+
+--------------------------------------------------------------------------------
+HOW IS YOUR INFORMATION SHARED?
+--------------------------------------------------------------------------------
+  - With drivers and delivery partners
+  - With service providers
+  - With law enforcement if required
+  - With business partners
+
+--------------------------------------------------------------------------------
+PRIVACY CONTROLS:
+--------------------------------------------------------------------------------
+  - Control location permissions
+  - Access and delete data
+  - Manage account settings
+
+--------------------------------------------------------------------------------
+IMPORTANT NOTES:
+--------------------------------------------------------------------------------
+  - Uber collects continuous location data
+  - May use biometric verification (face ID)
+
+================================================================================

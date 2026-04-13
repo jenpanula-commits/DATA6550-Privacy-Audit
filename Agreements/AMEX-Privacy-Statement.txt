@@ -1,0 +1,199 @@
+American Express®  Online Privacy Statement
+
+
+Effective Date: April 2020
+ 
+At American Express® (American Express Services Europe Ltd. and American Express Payment Services Ltd.) we are committed to safeguarding your privacy. We want you to know how we may collect, use, share, and keep information about you and the choices that are available to you.
+
+When we provide American Express products or services to you or your company, we also give you specific additional details about how we will use your personal information in contract terms and/or additional privacy disclosures.
+
+This online privacy statement applies to American Express websites, online applications that run on smart phones, tablets, and other mobile devices ("apps") as well as your use or access of any of our online services, content and other online programmes that we offer with our partners and link to this statement. In those contexts where we indicate, it also applies to certain offline information that we process about you. It does not apply to those websites that have their own online privacy statements such as the American Express Network website, amexnetwork.com.
+
+Our websites and apps are not intended for children under 16 years of age. We do not knowingly solicit data online from, or market online to, children under 16 years of age.
+
+From time to time, we will change this online privacy statement. Depending on the nature of these changes, we will inform you through our written communications or through our website. Otherwise, we recommend that you check the current version available here. If we make changes to this statement, we will update the "Effective Date" at the top of this page.
+
+
+What is in this online privacy statement?
+ 
+What information does this online privacy statement cover?
+What information do we collect online and how do we collect it?
+How do we use the information we collect about you?
+How do we share your information?
+How do we handle Aggregate and De-identified Information?
+How do we keep and safeguard your information?
+What are your rights?
+What are your choices?
+Do you have questions about the online privacy statement or want to make a complaint?
+Glossary
+
+
+What information does this online privacy statement cover?
+ 
+This online privacy statement describes how we (and our Service Providers) collect, use, share, and keep information that we get about you online. We gather Online Information if you:
+ 
+    - Visit or use our websites or apps;
+    - Participate in the online programmes we offer with our Business Partners;
+    - Receive or reply to electronic communications from us;
+    - View or click on our ads or other online content; and
+    - Interact with us through social media websites and other websites and apps.
+In this statement, we also explain how we use Other Information, on its own or in combination with Online Information.
+
+
+What information do we collect online and how do we collect it?
+ 
+The types of information we collect depends on which product or service you use.
+ 
+Sometimes you give information directly to us (or to our Service Providers). For example, you might give us your name, account number, email, mailing address, phone number, or date of birth when you:
+ 
+    - fill out an online form or survey, including when you apply online for our products, or you book travel with us;
+    - register, log into or update the settings on your account using our online services
+    - register or enrol in our programmes;
+    - enter a competition or register for a marketing offer; or
+    - buy something on our websites or apps.
+ 
+We (and our Service Providers or Third-Party Ad-Servers) also collect information through Cookies and Similar Technologies. Most Cookies and Similar Technologies will only collect De-Identified Information such as how you arrive at our website or your general location. However, certain Cookies and Similar Technologies do collect Personal Information. For example, if you click Remember Me when you log in to our website, a cookie will store your username.
+ 
+We (and our Service Providers or Third-Party Ad-Servers) collect information using Cookies and Similar Technologies, such as:
+ 
+    - the device you use to browse our websites or apps (such as information about the operating system, the browser version or the type of device you use to open our electronic communications);
+    - the IP Address and information related to that IP Address (such as domain information, your internet provider and general geographic location);
+    - browsing history on our websites or apps (such as what you search for, the pages you view, how long you stay, and how often you come back);
+    - how you search for our websites or apps, which website or app you came from, and which of our Business Partners' websites you visit;
+    - which ads or online content from us and our Business Partners you view, access, or click on;
+    - whether you open our electronic communications and which parts you click on (for example, how many times you open the communication); and
+    - the location of your mobile device (for the purposes set out below).
+We (and our Service Providers or Third-Party Ad-Servers) also collect information (which may include Personal Information such as creditworthiness information or your contact details), made publicly available through third-party platforms (such as online social media platforms), credit reference agencies, online databases or directories, or that is otherwise legitimately obtained.
+ 
+How do we use the information we collect about you?
+ 
+We use Online Information we collect about you, either on its own or combined with Other Information: (i) where it is necessary to administer our contractual relationship with you; (ii) for our own legitimate interests to provide you with better products and services (such as to reduce fraud); (iii) where we have obtained your consent (such as for certain marketing purposes); or (iv) for compliance with laws.
+More specifically, to administer our contractual relationship with you, we may use your information to:
+ 
+    - process your application for a card, account or other product or to manage your existing accounts;
+    - complete transactions, tell you about updates to your accounts, products, and services, provide location based services you may request, and/or update you about new features and benefits;
+    - answer questions and respond to your requests made through our websites or apps and through third-party websites (including social media);
+ 
+For our legitimate interests or for the legitimate interests of others, we may use your information to deliver products and services, advertise and market products and services, conduct research and analysis, and manage our fraud and security risks, in the following ways:
+ 
+    - determine how to best provide services to you and manage your accounts, such as the best way and time to contact you;
+    - to better understand our customers and users, improve our websites or apps and make them easier to use;
+    - use the location and other technical attributes of your mobile device or browser to prevent fraud and improve security;
+    - to advertise and market for the American Express Family of Companies and those of our Business Partners (for example, we may present ads, promotions, offers or content that is tailored to your interests, including Targeted Advertising, and analyse whether such marketing or advertising is effective);
+    - inform our collection practices and share information with credit reference agencies and fraud-management agencies (for more information, see Credit Reference Agency Information Notice);
+    - manage fraud and security risks, including to review and approve individual transactions you make through digital channels, detect and prevent fraud or criminal activity and/or safeguard the security of your information);
+    - develop and refine our risk management policies, models and procedures for applications and customer accounts, relying on information such as your experience with our websites or products;
+    - allow you to provide feedback by rating and reviewing our products and services and those of our Business Partners;
+    - produce data analytics, statistical research, and reports;
+    - review and change our products and services;
+    - help determine whether you may be interested in new products or services;
+ 
+To promote our products and services, we may also ask for your consent to:
+ 
+    - send you ads, promotions, and offers for the products and services for the American Express Family of Companies and those of our Business Partners;
+    - recognise you when you return to our websites, receive our emails, or use our apps (for example, we may send you tailored ads, promotions, offers or content, including Targeted Advertising);
+Finally, we may use your information to comply with applicable laws and regulation around the world, including to:
+ 
+    - establish, exercise, or defend legal rights or claims and assist in dispute resolution; or
+    - as required or permitted by law (such as performing due diligence on customers before approving their applications).
+We may use automated systems to help us make certain decisions, e.g., whether to process card applications, manage fraud and security risks. You have rights with respect to certain types of decisions that are made solely by automated means. Please see the section called "What are your rights?" for more information.
+ 
+How do we share your information?
+ 
+Some Online Information and Other Information is Personal Information.
+ 
+We do not share your Personal Information with anyone except as described below. We will share your Personal Information only with your consent or as required or permitted by applicable law, such as:
+ 
+    - with regulatory authorities, courts, and governmental agencies to comply with legal orders, legal with credit reference agencies and similar institutions to report or ask about your financial circumstances, and to report or collect debts you owe;
+    - or regulatory requirements, and government requests;
+    - with our Service Providers, regulatory authorities, law enforcement and governmental agencies to detect and prevent fraud or criminal activity, and to protect the rights of American Express or others;
+    - within the American Express Family of Companies;
+    - with our Service Providers who perform services for us (such as Targeted Advertising) and help us operate our business;
+    - with Business Partners or Co-brand Partners to offer, customize or develop products and services, either jointly or separately (but we will not share your contact information with these partners for them to independently market their own products or services to you unless you provide consent for them to do so);
+    - in the context of a sale of all or part of the American Express Family of Companies or their assets; or
+    - for specific products or services, when you have given your consent.
+To protect your security, prevent fraud, and comply with regulatory requirements, we share Personal Information about you, your account, and the details of any payments you send us, with third parties such as your bank, building society or payment card issuers, and local regulatory authorities.
+ 
+We may transfer your Personal Information outside the UK or European Economic Area, such as to the United States (where our main operational data centres are located) to operate our business, process transactions and provide you with our products or services. Regardless of where we process your information, we will take appropriate steps (such as including contractual protections) to ensure an adequate level of protection for your information in other countries outside the UK or EEA, including the USA, where data protection laws may not be as comprehensive as the UK or EEA. 
+ 
+Please note that data transfers within the American Express Family of Companies are made under our Binding Corporate Rules. For more information, please read the Data Protection and Privacy Principles, which are available on the privacy section of our website.
+
+
+How do we handle Aggregated Information and De-Identified Information?
+ 
+Aggregated Information or De-Identified Information does not identify you individually; it helps us to analyse patterns among groups of people. We share Aggregated Information or De-Identified Information in several ways, for example:
+ 
+    - for the same reasons as we share Personal Information;
+    - with Business Partners to help develop and market programmes, products or services and present targeted content (including Targeted Advertising);
+    - with Business Partners to conduct analysis and research about customers, website and app users; or
+    - with Third-Party Ad-Servers to place ads (including ads of our Business Partners) on various websites and apps, and to analyse the effectiveness of those ads.
+ 
+How do we keep and safeguard your information?
+ 
+We use organisational, administrative, technical and physical security measures to protect your Personal Information. These measures include computer safeguards and secured files and facilities. We require Service Providers to safeguard Personal Information and only use your Personal Information for the purposes we specify.
+ 
+We will keep your Personal Information only as long as we need to deliver our products and services, unless we are required to keep it for longer periods because of law, regulation, litigation or regulatory investigations. For example, your Personal Information could be stored by American Express for seven years after you close your account due to Inland Revenue requirements. When your Personal Information is no longer necessary for our business, legal or regulatory needs, we will take reasonable steps to securely destroy such information or permanently de-identify it. For more information about American Express's retention periods for Personal Information, please contact us.
+
+
+What are your rights?
+ 
+In certain instances, you have the right to access, update, and/or erase your Personal Information. You may also be entitled to restrict and/or object to the use of your Personal Information in the following ways:
+ 
+    - withdraw your consent for our use of your Personal Information at any time;
+    - restrict and/or object to the use of your Personal Information;
+    - request a manual review of certain automated processing activities that may impact your legal or other contractual rights; and
+    - request a copy of your Personal Information we have about you.
+COVID-19 Update: We are currently not able to receive or respond to enquiries or complaints via post. We strongly encourage you to send us your request by e-mail. Please note, due to the unprecedented situation and adjustments we are making to ensure the safety of our Colleagues and Customers, you may experience a delay in our response to your requests.
+ 
+If you want to exercise any of your rights or if you have any questions about how we process your Personal Information, please contact us.
+
+
+What are your choices?
+ 
+You can exercise choices about how American Express uses your information, such as how we market to you or how we manage Cookies and Similar Technologies.
+ 
+You can choose how you would like to receive marketing communications, including direct marketing - whether we send them to you through postal mail, email, SMS and/or telephone. If you choose to not receive marketing communications from us, we will honour your choice. Please be aware that if you choose not to receive such communications, certain offers attached to the products or services you have chosen could be affected. We will still communicate with you in connection with servicing your account, fulfilling your requests, or administering any promotion or any program in which you have elected to participate.
+ 
+For additional information to manage your marketing communication, including your preferences related to direct marketing, please click here to log in and go to Profile and Preferences or call the number on the back of your card.
+
+
+Do you have questions about the online privacy statement or want to make a complaint?
+ 
+If you have questions about our online privacy statement or how your information is handled, please contact us. (If you are an American Express card member, you can also call us at the number on the back of your card.)
+ 
+If you wish to make a complaint or exercise other rights, you may contact our Data Protection Officer at DPO-Europe@aexp.com.
+ 
+Once we receive a complaint, we will do our best to resolve it as soon as possible and no later than30 days. If we cannot meet that deadline, we will send you a letter explaining the cause of the delay and providing an expected time for the response.
+ 
+You also have the right to contact the United Kingdom Data Protection Authority directly (please go to the ICO website for further details) or to take your case to the court where you live, work or place where there may have been an infringement.
+ 
+ 
+Glossary
+ 
+Aggregated Information - data or information relating to multiple people which has been combined or aggregated such that individuals cannot be re-identified. Aggregated Information includes information that we create or compile from various sources, including card transactions or certain data from Cookies and Similar Technologies.
+ 
+American Express (we, our, us) - the American Express Company as identified at the beginning of this online privacy statement.
+ 
+American Express Family of Companies - any affiliate, subsidiary, joint venture, and any company owned or controlled by, the American Express Company.
+ 
+Business Partners - third parties with whom we conduct business and have a contractual relationship, such as digital payment providers and technology platforms which provide our services, insurance and travel service providers, and parties that accept American Express branded cards for payments of goods/services purchased by you (i.e., merchants).
+ 
+Co-brand Partners - businesses we partner with to offer cards featuring both brand logos.
+ 
+Cookies and Similar Technologies - a cookie is a small data file that a website transfers to your computer's hard drive. We place cookies when you visit our website or another company's website where our ads appear or when you make purchases, request or personalise information, or register for certain services. If you accept the cookies used on our website, websites that are "powered by" another company on our behalf, or websites where our ads appear, you give us access to information about your interests. We use that information to personalise your experience. Similar technologies such as web beacons, pixels, gifs, and tags also do the same thing. We use the term Cookies and Similar Technologies in this statement to refer to all technologies that collect information in this way. For further details of our use of cookies and how you disable them, click on Privacy Statement and American Express Cookie Preferences.
+ 
+De-identified Information - data or information used in a way (for example, pseudonymised) that does not identify you to a third party. We often derive De-Identified Information from Personal Information. It includes information that we may collect from various sources, such as card transactions or certain data from Cookies and Similar Technologies.
+ 
+IP Address - a number assigned to a device when connecting to the Internet.
+ 
+Online Information - data or information collected on the American Express websites and apps as well as on websites and apps of third parties relating to topics about our business. Online Information may include your Personal Information, Aggregated Information and De-Identified Information.
+ 
+Other Information - American Express internal information (for example, card transaction data or paper application form data), external data that financial companies use to process applications and complete transactions, and other online and offline information we collect from or about you. Other Information includes your Personal Information, Aggregated Information, and De-Identified Information, but does not include your Online Information.
+ 
+Personal Information - any information relating to an identified or identifiable natural person, such as name, addresses, telephone number, and email address and other information specific to that individual such as demographic details and transaction information.
+ 
+Service Providers - any vendor, third party and/or company that provides services or performs business operations on our behalf, such as printing, mailing, and other communications services (email, direct mail, etc.), marketing, data processing and outsourced technology, servicing, collections, ad management, auditors, consultants and professional advisors.
+ 
+Targeted Advertising - ads we, or our Service Providers, display on websites outside the American Express Family of Companies based on the preferences or interests inferred from data collected from a particular computer or device regarding web viewing behaviours over time and across different websites or, more generally, on data internally available to us (for example, transaction data).
+ 
+Third-Party Ad-Servers - companies that provide the technology to place ads on websites (and apps) and track how ads perform. These companies may also place and access cookies on your device. The information they collect from our websites is in a form that does not identify you personally.
