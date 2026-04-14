@@ -1,0 +1,1278 @@
+WEBVTT
+
+1
+00:00:00.120 --> 00:00:00.920
+Shiva Kumar Chary Valaboju: Yep.
+
+2
+00:00:10.090 --> 00:00:14.440
+sukanya: So, everybody added those DXT files in the agreements, right?
+
+3
+00:00:15.130 --> 00:00:15.880
+Jay Beladiya: Yeah.
+
+4
+00:00:15.880 --> 00:00:16.860
+Jennifer p: Yeah.
+
+5
+00:00:17.610 --> 00:00:19.750
+sukanya: So, yeah, what should we have to do now?
+
+6
+00:00:21.710 --> 00:00:22.330
+Jennifer p: I'm…
+
+7
+00:00:22.430 --> 00:00:34.090
+Jennifer p: So what I've started doing, and I've tried to… I tried to do this… execute this before this meeting, and I'm so sorry I haven't completed it. I kept running into issues. I tried running…
+
+8
+00:00:35.230 --> 00:00:52.480
+Jennifer p: the NLP code that I had, used for my individual analysis on the group one. Like, I gathered all those text files and ran the code on it, and I'm trying to just, like, throw it all together on a document right now to share with you guys, but I haven't finished yet, I'm sorry.
+
+9
+00:00:53.030 --> 00:00:55.200
+sukanya: You know, that's why I can do it.
+
+10
+00:01:00.240 --> 00:01:11.949
+Jennifer p: I don't think I'll be able to finish it all by this meeting, and I didn't mean to say, like, wait on me, but I'll have it shared with you guys by, you know, before I go to sleep tonight.
+
+11
+00:01:15.700 --> 00:01:19.900
+Jay Beladiya: We have… oh, so all we gotta do is write a final report now, right?
+
+12
+00:01:20.810 --> 00:01:21.590
+Jennifer p: Yeah.
+
+13
+00:01:22.800 --> 00:01:31.979
+Jennifer p: Like, I'm hoping what I'm about to share with you guys should help start… get the ball rolling on the final report, I guess is what I mean to say? Does that make sense?
+
+14
+00:01:32.590 --> 00:01:37.890
+Jay Beladiya: Yeah, I think in this one, all four of us might have to add a couple things from our own.
+
+15
+00:01:39.350 --> 00:01:41.940
+Jay Beladiya: Analysis of the agreements.
+
+16
+00:01:42.070 --> 00:01:42.840
+Jay Beladiya: Right?
+
+17
+00:01:43.710 --> 00:01:44.480
+sukanya: Hmm.
+
+18
+00:01:53.580 --> 00:01:58.140
+Jay Beladiya: Do y'all wanna do, like, a deadline for that, or…
+
+19
+00:02:08.949 --> 00:02:15.180
+Jennifer p: Hold on, actually, let me share this with you guys. Are you guys at a computer right now, or just, like, on your phone talking to us?
+
+20
+00:02:15.180 --> 00:02:16.589
+Jay Beladiya: I'm on my phone.
+
+21
+00:02:27.230 --> 00:02:30.480
+Jennifer p: I'm almost done writing this, I'm gonna share it with you guys.
+
+22
+00:02:43.870 --> 00:02:47.919
+Jennifer p: Sorry, I was trying really hard to finish this before this meeting started.
+
+23
+00:03:06.490 --> 00:03:12.540
+Jennifer p: I'm adding… I'm just gonna add a new tab to our…
+
+24
+00:03:14.720 --> 00:03:17.469
+Jennifer p: Like, our document? Like, our Word document?
+
+25
+00:03:17.470 --> 00:03:17.980
+Jay Beladiya: So…
+
+26
+00:03:17.980 --> 00:03:22.630
+Jennifer p: Cause so it's just, like, separate, like a… proposed draft, I guess.
+
+27
+00:03:23.570 --> 00:03:24.230
+Jay Beladiya: Okay.
+
+28
+00:03:33.290 --> 00:03:46.940
+Jennifer p: Everything in red is just things I haven't edited yet. I basically used, like, the framework of my individual analysis that I completed, and I… I'm just, like… I, like, changed the images to the images of the group project one.
+
+29
+00:03:47.440 --> 00:03:53.850
+Jennifer p: So the wording, like, the wording of the analysis might need to change as far as, like, what's written.
+
+30
+00:03:55.450 --> 00:04:03.380
+Jennifer p: So, like, anything in red, like, we might need to just completely change it, and if it doesn't match what's coming up on this group report.
+
+31
+00:04:05.470 --> 00:04:11.800
+Jennifer p: But I know if you're on your phone, you probably, you know, won't be able to see it, but if you go to the Google Doc when you get a chance.
+
+32
+00:04:11.860 --> 00:04:28.250
+Jennifer p: I added a new tab in it, just to kind of differentiate it from… from the initial tab where we started some… I just threw some ideas on there. So the tab says proposed draft. Obviously it's not a completed draft, it's just kind of a starter.
+
+33
+00:04:28.680 --> 00:04:35.220
+Jennifer p: And it shows, like, some screenshots of some…
+
+34
+00:04:35.480 --> 00:04:39.979
+Jennifer p: matrices and stuff from… it's just not… it's not like…
+
+35
+00:04:40.820 --> 00:04:47.600
+Jennifer p: formatted really pretty yet. It's just because I was trying really, really quickly to put it up there.
+
+36
+00:04:48.190 --> 00:04:51.730
+Jennifer p: Some screenshots from the group analysis of…
+
+37
+00:04:52.190 --> 00:04:55.780
+Jennifer p: Running that code on all of those?
+
+38
+00:04:56.330 --> 00:04:58.740
+Jennifer p: companies. Does that make sense?
+
+39
+00:05:04.420 --> 00:05:18.209
+Jennifer p: And I'll upload… I'll upload the… the note… the Jupyter notebook onto the GitHub in just a moment as well, so that, I'll put it under an… I don't know, analysis, and I'll just call it group analysis or something.
+
+40
+00:05:18.620 --> 00:05:25.650
+Jennifer p: But I don't know how you guys feel about using NLP as, like, kind of, like, a basis for our analysis. I just think with…
+
+41
+00:05:25.770 --> 00:05:28.360
+Jennifer p: Was it, like, 16 companies?
+
+42
+00:05:30.120 --> 00:05:37.029
+Jennifer p: It makes sense to have some sort of methodol… methodology… methodology of, like, looking through it.
+
+43
+00:05:37.700 --> 00:05:41.540
+Jennifer p: With the computer, rather than our eyeballs and our brain.
+
+44
+00:05:45.880 --> 00:05:50.929
+sukanya: So, you're doing this, your core thing with these 16 companies, all of them?
+
+45
+00:05:51.620 --> 00:06:01.179
+Jennifer p: Yeah, so that's why I asked everyone to load it all onto the GitHub of those text files, so that the code… we ran the… I just ran the code on all of them.
+
+46
+00:06:01.180 --> 00:06:06.260
+sukanya: Oh, do we have to do, like, for every company? I don't know, I just want to clarify it.
+
+47
+00:06:07.110 --> 00:06:07.900
+Jennifer p: So…
+
+48
+00:06:08.360 --> 00:06:10.979
+sukanya: We have to select 4 companies of them.
+
+49
+00:06:11.640 --> 00:06:15.249
+Jennifer p: I… I pulled pretty much all the text files that
+
+50
+00:06:15.430 --> 00:06:27.379
+Jennifer p: everyone had uploaded to the GitHub. There was 16 of them. There was a couple duplicates, I think, but there was about 16 total, so that…
+
+51
+00:06:27.940 --> 00:06:32.720
+Jennifer p: Equals to vote 4 per person, so it makes sense that there's 16 in there.
+
+52
+00:06:38.970 --> 00:06:52.370
+Jennifer p: Does anyone have any thoughts or concerns about the idea of, kind of, framing it in, like, an NLP? Because that's what I did for my individual analysis, at least, but that's why I wanted to share it like this, but…
+
+53
+00:06:52.720 --> 00:07:01.860
+Jennifer p: like, using… It's like a pre-trained, NLP model… what's it called?
+
+54
+00:07:02.190 --> 00:07:08.540
+Jennifer p: Spacey. I use spaCy to… it's, like, basically kind of keyword stuff.
+
+55
+00:07:09.000 --> 00:07:13.780
+Jennifer p: To kind of capture… Some of the…
+
+56
+00:07:14.350 --> 00:07:20.259
+Jennifer p: I don't know, keywords that are pertaining to, like, data collection and user rights and stuff like that.
+
+57
+00:07:22.250 --> 00:07:28.750
+Jay Beladiya: Mmm, I think it's a good idea. I haven't used the… The, notebook for you?
+
+58
+00:07:28.990 --> 00:07:31.210
+Jay Beladiya: I was kind of looking through the…
+
+59
+00:07:31.740 --> 00:07:33.980
+Jay Beladiya: Agreements and just writing down stuff.
+
+60
+00:07:34.440 --> 00:07:34.820
+Jennifer p: I'll try that.
+
+61
+00:07:34.820 --> 00:07:38.790
+Jay Beladiya: try it, when I get time, maybe tomorrow or Tuesday.
+
+62
+00:07:39.620 --> 00:07:40.320
+Jennifer p: Okay.
+
+63
+00:07:40.320 --> 00:07:42.279
+Jay Beladiya: Because I still have only done 4…
+
+64
+00:07:42.650 --> 00:07:47.319
+Jay Beladiya: agreements. I still have to do 4 for the individual analysis, too.
+
+65
+00:07:47.780 --> 00:07:49.420
+Jennifer p: Yeah.
+
+66
+00:07:50.020 --> 00:07:51.589
+Jay Beladiya: I think it'll be more helpful.
+
+67
+00:07:54.090 --> 00:07:57.099
+Jennifer p: Yeah, so I mean, I took screenshots of, like.
+
+68
+00:07:57.320 --> 00:08:00.100
+Jennifer p: the results I'm throwing on here?
+
+69
+00:08:00.300 --> 00:08:06.449
+Jennifer p: At least the results of all of our group… all those 16 grouped, companies.
+
+70
+00:08:06.610 --> 00:08:19.270
+Jennifer p: So, like I said, it's not super pretty, like, there are, you know, a bunch of tables on this… on this paper, but but at least we can, like, look at that and kind of write some analysis based on what those results show.
+
+71
+00:08:23.990 --> 00:08:27.849
+Jennifer p: One's missing a bunch of images, hold on. I didn't share everything.
+
+72
+00:08:28.030 --> 00:08:33.970
+Jennifer p: Because I used it on Word, and I transferred it from Word to Google, so something's missing.
+
+73
+00:08:36.380 --> 00:08:37.979
+Jennifer p: Sorry, there was a lot more.
+
+74
+00:08:39.789 --> 00:08:42.059
+Jay Beladiya: What do y'all want to include in the report?
+
+75
+00:08:51.139 --> 00:08:55.309
+Jay Beladiya: I don't remember if it gave us a structure for the report or not.
+
+76
+00:08:58.920 --> 00:09:03.040
+Jennifer p: He kind of…
+
+77
+00:09:03.710 --> 00:09:10.770
+Jennifer p: he… he… it's the structure that's shown in here, except for, I mean, I… I use the… in the homework.
+
+78
+00:09:12.930 --> 00:09:18.680
+Jennifer p: Sorry, I'm multitasking, I'm trying to throw some of these things that didn't make it.
+
+79
+00:09:18.810 --> 00:09:25.860
+Jennifer p: I used the homework instructions to fill out these, like.
+
+80
+00:09:26.160 --> 00:09:40.319
+Jennifer p: the structure of this, where it says overview, services analyzed. I added methodology section. It didn't say that in the homework, but I thought it made sense. And then the homework says key findings from comparison.
+
+81
+00:09:40.820 --> 00:09:49.720
+Jennifer p: regulatory compliance assessment, Lessons learned, and recommendations for improvement.
+
+82
+00:09:59.070 --> 00:10:01.940
+Jay Beladiya: Okay, so how are we gonna do the… the report?
+
+83
+00:10:10.420 --> 00:10:19.180
+Jennifer p: Said he wouldn't… Well, just first of all, is everyone on, like, okay with this idea?
+
+84
+00:10:26.400 --> 00:10:31.789
+Jay Beladiya: Newman, the… The thing you did with the homework for the report?
+
+85
+00:10:32.210 --> 00:10:32.920
+Jennifer p: Yeah.
+
+86
+00:10:33.440 --> 00:10:34.620
+Jay Beladiya: Yeah, I'm fine with it.
+
+87
+00:10:37.900 --> 00:10:38.490
+sukanya: Oh, crap.
+
+88
+00:10:39.760 --> 00:10:40.780
+sukanya: Yo.
+
+89
+00:10:40.780 --> 00:10:41.790
+Jennifer p: Otherwise…
+
+90
+00:10:42.120 --> 00:10:55.299
+Jennifer p: That's the reason I was suggesting this, because it's going to be so hard to put our brains together and try to synthesize and analyze from reading… reading everything. All… every… individually, we've all read different things, you know what I mean?
+
+91
+00:10:55.740 --> 00:10:56.490
+Jay Beladiya: Yeah.
+
+92
+00:10:58.340 --> 00:11:00.149
+Jay Beladiya: I think it's a good idea, yeah.
+
+93
+00:11:00.850 --> 00:11:03.740
+Jennifer p: Alright. Shiva, I haven't heard from you, are you okay with this?
+
+94
+00:11:06.350 --> 00:11:07.260
+sukanya: I'm sorry.
+
+95
+00:11:17.340 --> 00:11:20.170
+Jennifer p: Maybe we can just split it up by section and…
+
+96
+00:11:21.200 --> 00:11:23.990
+Jennifer p: People can just write some things according to what they…
+
+97
+00:11:24.870 --> 00:11:33.959
+Jennifer p: what they see in the results. I mean, there's already a lot written here, like I said, I kind of pulled this from my individual analysis, so a lot of it might still stand.
+
+98
+00:11:34.250 --> 00:11:43.590
+Jennifer p: Especially, like, the results. Like, I put the text in red for now, just because I haven't… it might not match exactly with the results that we've seen.
+
+99
+00:11:43.920 --> 00:11:50.260
+Jennifer p: Because I haven't… I haven't looked at it that closely, because I was trying to rush. But…
+
+100
+00:11:50.430 --> 00:11:57.300
+Jennifer p: The text in red, we might just need to just add to or adjust and change according to what the results show.
+
+101
+00:11:57.300 --> 00:12:02.209
+Shiva Kumar Chary Valaboju: Excuse me, sorry for this. Can I just hold for 10 minutes? I'll be back in a minute.
+
+102
+00:12:05.490 --> 00:12:08.710
+Jennifer p: Do we… do we maybe want to just restart in 10 minutes instead?
+
+103
+00:12:10.050 --> 00:12:14.010
+Shiva Kumar Chary Valaboju: I will be back in 10 minutes. I had a call just for 10 minutes.
+
+104
+00:12:14.540 --> 00:12:15.200
+Jennifer p: Okay.
+
+105
+00:12:20.870 --> 00:12:22.880
+Jennifer p: I'm gonna mute myself in the meantime, okay?
+
+106
+00:12:24.270 --> 00:12:25.549
+Jay Beladiya: Yeah, me too.
+
+107
+00:12:25.960 --> 00:12:29.380
+Jay Beladiya: I hope we can finish this quick, because I'm kind of tired today.
+
+108
+00:12:29.380 --> 00:12:31.019
+Jennifer p: Yeah, man, me too.
+
+109
+00:12:31.510 --> 00:12:33.489
+Jay Beladiya: I had a tournament I had to play.
+
+110
+00:12:57.530 --> 00:12:59.139
+sukanya: Are we gonna wait for him?
+
+111
+00:12:59.340 --> 00:13:00.809
+sukanya: Or we're hanging up.
+
+112
+00:13:11.340 --> 00:13:15.269
+Jay Beladiya: Well, he said he's gonna be back in 10 minutes, so… I guess we wait.
+
+113
+00:13:16.800 --> 00:13:17.620
+sukanya: Okay.
+
+114
+00:22:31.420 --> 00:22:35.240
+sukanya: I just called him, he will be in, 5 minutes or something.
+
+115
+00:22:43.250 --> 00:22:44.480
+Jennifer p: Okay, thank you.
+
+116
+00:23:07.180 --> 00:23:10.140
+Jennifer p: If in the meantime, any of you guys are in…
+
+117
+00:23:10.280 --> 00:23:17.000
+Jennifer p: front of a computer. I did upload the notebook file to GitHub.
+
+118
+00:23:17.720 --> 00:23:18.580
+Jennifer p: Yeah, yeah.
+
+119
+00:23:18.580 --> 00:23:19.220
+sukanya: I'm checking.
+
+120
+00:23:19.220 --> 00:23:27.950
+Jennifer p: If you wanted to take a peek at it, but I mostly already copied all the main information onto the
+
+121
+00:23:28.350 --> 00:23:30.530
+Jennifer p: the Google file.
+
+122
+00:23:31.320 --> 00:23:36.630
+sukanya: Yes, I'm so… Yeah, this is for group projects, right?
+
+123
+00:23:37.950 --> 00:23:56.070
+sukanya: If you are doing all the 16 companies we took, so, like, how we gonna represent in our final report? Like, we took all those 16 companies, and we have to prepare the regulatory metrics to them, everything like that in a final report?
+
+124
+00:23:58.600 --> 00:24:06.299
+Jennifer p: Yeah, so that's what this is. It ran all those 16 files and built matrices off of them.
+
+125
+00:28:14.090 --> 00:28:16.200
+Shiva Kumar Chary Valaboju: Hey, hi, I'm sorry, guys.
+
+126
+00:28:18.220 --> 00:28:20.090
+Shiva Kumar Chary Valaboju: Okay, so…
+
+127
+00:28:21.180 --> 00:28:28.679
+Shiva Kumar Chary Valaboju: So, let me make it clear from my side. So, actually, I thought of making a regulatory matrix today for this meeting.
+
+128
+00:28:29.060 --> 00:28:30.489
+Shiva Kumar Chary Valaboju: So are we gonna do that?
+
+129
+00:28:32.550 --> 00:28:33.280
+Jay Beladiya: Right now.
+
+130
+00:28:34.640 --> 00:28:38.790
+Shiva Kumar Chary Valaboju: Yeah, so that's what we have planned to do, right? So, we need to make that…
+
+131
+00:28:39.350 --> 00:28:43.800
+Shiva Kumar Chary Valaboju: the… the GDPR or CCPA, CR… CPRA?
+
+132
+00:28:44.650 --> 00:28:46.000
+Shiva Kumar Chary Valaboju: Compliances.
+
+133
+00:28:53.310 --> 00:28:55.789
+Shiva Kumar Chary Valaboju: And the VCDP compliance.
+
+134
+00:28:59.700 --> 00:29:01.410
+Jennifer p: How do you propose we do that?
+
+135
+00:29:02.560 --> 00:29:07.449
+Shiva Kumar Chary Valaboju: So, like, we're gonna mention our own articles of the… of those companies.
+
+136
+00:29:07.890 --> 00:29:10.889
+Shiva Kumar Chary Valaboju: And saying that, are they… achieve those?
+
+137
+00:29:11.220 --> 00:29:15.569
+Shiva Kumar Chary Valaboju: Matrixes or not, so that's what the proofs are asked for us.
+
+138
+00:29:22.540 --> 00:29:26.359
+Shiva Kumar Chary Valaboju: So, like, do we need to do, like, a spreadsheet or something, or…
+
+139
+00:29:26.560 --> 00:29:32.330
+Shiva Kumar Chary Valaboju: We need to do our individual Excel file and submitting our… folders for the GitHub.
+
+140
+00:29:35.880 --> 00:29:40.220
+Jennifer p: I mean, there is a matrix that… was…
+
+141
+00:29:40.690 --> 00:29:43.710
+Jennifer p: created that I have on the proposed draft.
+
+142
+00:29:44.220 --> 00:29:47.020
+Jennifer p: That does show… let me get a little bigger.
+
+143
+00:29:47.330 --> 00:29:50.849
+Shiva Kumar Chary Valaboju: But we thought of, like, creating a spreadsheet, right?
+
+144
+00:29:51.840 --> 00:29:52.420
+Shiva Kumar Chary Valaboju: Google's.
+
+145
+00:29:52.420 --> 00:29:56.890
+Jay Beladiya: Not really. That was just for… info, I think.
+
+146
+00:29:57.860 --> 00:29:58.839
+Jennifer p: Yeah, that was just collecting.
+
+147
+00:29:58.840 --> 00:29:59.230
+Jay Beladiya: Sure.
+
+148
+00:29:59.230 --> 00:30:01.490
+Jennifer p: Companies that we were… that we were trying to, like.
+
+149
+00:30:02.180 --> 00:30:07.549
+Shiva Kumar Chary Valaboju: That's… you're asking about the regular matrix.
+
+150
+00:30:08.050 --> 00:30:14.620
+Shiva Kumar Chary Valaboju: I was saying the… Articles requirement has been achieved by those companies or not.
+
+151
+00:30:16.050 --> 00:30:17.970
+Shiva Kumar Chary Valaboju: Like, we need to do that, right?
+
+152
+00:30:20.340 --> 00:30:24.420
+Jennifer p: I mean, I have… done that.
+
+153
+00:30:26.440 --> 00:30:28.960
+Jennifer p: On this proposed draft.
+
+154
+00:30:29.700 --> 00:30:35.470
+Jennifer p: And it's up to you guys if you feel that it's accurate or sufficient enough for what it needs.
+
+155
+00:30:35.710 --> 00:30:39.389
+Jennifer p: But if it's not, I don't know how else to do it.
+
+156
+00:30:40.270 --> 00:30:42.479
+Jay Beladiya: I think it's… it looks pretty good.
+
+157
+00:30:44.000 --> 00:30:46.130
+Jay Beladiya: It covers most of the stuff.
+
+158
+00:30:48.630 --> 00:30:58.209
+Jennifer p: So, the way that this was done with… with the… those regulatory compliances is… and it reads it right here in the thing, is…
+
+159
+00:30:58.210 --> 00:31:13.010
+Jennifer p: It says, to assess regulatory compliance, we created a scoring-based framework to quantify alignment with major privacy regulations, and this was done by using extracted policy features as proxies for compliance.
+
+160
+00:31:13.670 --> 00:31:20.930
+Jennifer p: And then, so, basically, features are created, and… basically…
+
+161
+00:31:21.680 --> 00:31:29.990
+Jennifer p: you know, using spicy? Spicy? Yeah. Using the pre-trained NLP Library?
+
+162
+00:31:30.240 --> 00:31:40.619
+Jennifer p: It determined if those… regulatory things were met or not. And then there's a matrix on here that shows
+
+163
+00:31:40.910 --> 00:31:45.459
+Jennifer p: how… how well it stacked up and how it didn't. It's kind of scored on her.
+
+164
+00:32:01.100 --> 00:32:02.830
+Shiva Kumar Chary Valaboju: But I think in the…
+
+165
+00:32:03.820 --> 00:32:13.999
+Shiva Kumar Chary Valaboju: Project document he asked for us due to need a regular matrix stating that the company satisfies the requirements for our analysis, so…
+
+166
+00:32:14.130 --> 00:32:21.140
+Shiva Kumar Chary Valaboju: For those companies we have done, we need to do our analysis on those acts or the policies
+
+167
+00:32:21.370 --> 00:32:23.000
+Shiva Kumar Chary Valaboju: Used by the company.
+
+168
+00:32:23.620 --> 00:32:27.530
+Shiva Kumar Chary Valaboju: Are there… Satisfied or not.
+
+169
+00:32:29.330 --> 00:32:31.180
+Jay Beladiya: What do you mean, regular matrix?
+
+170
+00:32:32.150 --> 00:32:32.850
+Shiva Kumar Chary Valaboju: It's regular.
+
+171
+00:32:32.850 --> 00:32:33.690
+Jay Beladiya: violated.
+
+172
+00:32:33.690 --> 00:32:36.190
+Shiva Kumar Chary Valaboju: Like, let me just screenshot.
+
+173
+00:32:38.030 --> 00:32:39.679
+Shiva Kumar Chary Valaboju: I just dumb in…
+
+174
+00:32:52.260 --> 00:32:54.920
+Shiva Kumar Chary Valaboju: Yeah, did you guys see my screen?
+
+175
+00:32:58.930 --> 00:33:01.740
+Shiva Kumar Chary Valaboju: So yeah, so I just asked the…
+
+176
+00:33:03.690 --> 00:33:09.120
+Shiva Kumar Chary Valaboju: the Google or something, so… do we need to do this? So, as per from our process…
+
+177
+00:33:10.350 --> 00:33:16.529
+Shiva Kumar Chary Valaboju: Yeah, I was just like, what's the articles or the requirements from the individual companies as for the
+
+178
+00:33:16.660 --> 00:33:20.729
+Shiva Kumar Chary Valaboju: GDPR, or CPCP, or CPR account balance, so…
+
+179
+00:33:20.870 --> 00:33:26.459
+Shiva Kumar Chary Valaboju: Are they partial satisfying, or the compliant satisfying, like, or nothing?
+
+180
+00:33:27.970 --> 00:33:32.440
+Shiva Kumar Chary Valaboju: So this is what we need to… And what's your node like?
+
+181
+00:33:32.690 --> 00:33:36.540
+Shiva Kumar Chary Valaboju: Yeah, I've done it all good or not, so… Whatever.
+
+182
+00:33:39.510 --> 00:33:46.460
+Shiva Kumar Chary Valaboju: So if you guys… So, you can add your Dropbox over here, and your company's
+
+183
+00:33:46.660 --> 00:33:48.300
+Shiva Kumar Chary Valaboju: And you can ride it.
+
+184
+00:33:48.890 --> 00:33:50.770
+Shiva Kumar Chary Valaboju: Like, that's what I thought of doing.
+
+185
+00:33:59.560 --> 00:34:06.650
+Shiva Kumar Chary Valaboju: So, these are the articles I have been… Collective from those up, compile injects…
+
+186
+00:34:07.230 --> 00:34:11.120
+Shiva Kumar Chary Valaboju: from the Google, from Meta, or Netflix, or PayPal.
+
+187
+00:34:28.670 --> 00:34:34.780
+Shiva Kumar Chary Valaboju: Oh, this is what the regular response… Yeah, as does for…
+
+188
+00:34:41.250 --> 00:34:44.459
+Shiva Kumar Chary Valaboju: Here's the comparison for the regulatory matrix.
+
+189
+00:34:44.920 --> 00:34:46.280
+Shiva Kumar Chary Valaboju: Excel file.
+
+190
+00:34:48.480 --> 00:34:53.630
+Shiva Kumar Chary Valaboju: Do you guys see it over there? He mentioned it to make a regulatory metric XL.
+
+191
+00:34:59.190 --> 00:35:06.879
+Shiva Kumar Chary Valaboju: So, if you ask me that… he didn't mention anything about the code, but while you're particular about the code, I don't know, but that's up to you.
+
+192
+00:35:07.080 --> 00:35:12.770
+Shiva Kumar Chary Valaboju: But he mentioned us some things to do for the final submission, so we need to focus on them.
+
+193
+00:35:13.070 --> 00:35:24.189
+Shiva Kumar Chary Valaboju: So our main thing is to… do the findings.docs, and our… individual analysis, And our privacy audit report.
+
+194
+00:35:25.670 --> 00:35:31.030
+Shiva Kumar Chary Valaboju: And the… if you're… if you can do… you can do it from your side, but I think…
+
+195
+00:35:31.220 --> 00:35:34.570
+Shiva Kumar Chary Valaboju: the NLP analysis or something, he didn't ask about it.
+
+196
+00:35:35.540 --> 00:35:36.189
+Shiva Kumar Chary Valaboju: But that's…
+
+197
+00:35:36.190 --> 00:35:45.819
+Jay Beladiya: No, no, I think, yeah, she, she, she wrote it so it's easier to compare. It's not necessary, that's… that's not…
+
+198
+00:35:45.820 --> 00:35:46.470
+Shiva Kumar Chary Valaboju: Oh, she says.
+
+199
+00:35:46.990 --> 00:35:52.460
+Shiva Kumar Chary Valaboju: I'm not saying that, it's not necessary, but he didn't mention about it, but that's up to you, so…
+
+200
+00:35:53.420 --> 00:36:04.059
+Shiva Kumar Chary Valaboju: We need to do our own analysis, that's what I can see when you can see it's our ownanalysis.file. You need to upload all your analysis in your folders.
+
+201
+00:36:04.800 --> 00:36:10.620
+Shiva Kumar Chary Valaboju: So, based on those analyses, we need to do our regulatory metric analysis based on this.
+
+202
+00:36:11.460 --> 00:36:15.169
+Shiva Kumar Chary Valaboju: like, I'm gonna paste this, I'm gonna share with you guys.
+
+203
+00:36:16.560 --> 00:36:25.569
+Shiva Kumar Chary Valaboju: And then we need to do our findings.toc based on our individual analysis on those companies, and we need to do our findings.tocs, which is, like.
+
+204
+00:36:25.700 --> 00:36:27.210
+Shiva Kumar Chary Valaboju: final PDF, so…
+
+205
+00:36:35.280 --> 00:36:41.310
+Shiva Kumar Chary Valaboju: Actually, I thought you guys were gonna do these regulatory metrics on this meeting, so I thought that's gonna be our…
+
+206
+00:36:41.590 --> 00:36:42.719
+Shiva Kumar Chary Valaboju: main meat.
+
+207
+00:36:47.340 --> 00:36:51.769
+Shiva Kumar Chary Valaboju: And after that, we can do our… we can have one more meet.
+
+208
+00:36:52.110 --> 00:36:59.120
+Shiva Kumar Chary Valaboju: Stating, what do you have fined for our companies, and we… that's, I thought, doing our findings, dot doubts.
+
+209
+00:36:59.460 --> 00:37:00.910
+Shiva Kumar Chary Valaboju: On those meetings, so…
+
+210
+00:37:08.060 --> 00:37:11.579
+Jennifer p: I think we just all have different ideas of how to approach the…
+
+211
+00:37:12.800 --> 00:37:17.950
+Jennifer p: the objective, and that's why we're all just kind of like, I don't know,
+
+212
+00:37:18.100 --> 00:37:21.390
+Jennifer p: I mean, what you showed us with… with the…
+
+213
+00:37:21.820 --> 00:37:28.050
+Jennifer p: Excel file you shared, it looks really thorough and nice, but I don't know
+
+214
+00:37:28.910 --> 00:37:31.519
+Jennifer p: That might be a lot of work to go through.
+
+215
+00:37:31.820 --> 00:37:34.380
+Jennifer p: And, I mean, everyone can add to it, but…
+
+216
+00:37:34.380 --> 00:37:36.659
+Shiva Kumar Chary Valaboju: That's what he asked us to upload.
+
+217
+00:37:36.770 --> 00:37:42.670
+Shiva Kumar Chary Valaboju: Stating the comparison of those articles based on those compliances.
+
+218
+00:37:44.130 --> 00:37:48.629
+Shiva Kumar Chary Valaboju: really… Satisfied by those companies or not.
+
+219
+00:37:51.030 --> 00:37:59.250
+Jennifer p: Yeah, I'm just… I'm just trying to explain that in the code block and the… and what I had added to the group doc…
+
+220
+00:37:59.580 --> 00:38:01.120
+Jennifer p: It does have a matrix.
+
+221
+00:38:01.120 --> 00:38:02.109
+sukanya: Yeah, we're doing that.
+
+222
+00:38:02.110 --> 00:38:02.440
+Jennifer p: They've been.
+
+223
+00:38:02.600 --> 00:38:03.300
+sukanya: Olympia.
+
+224
+00:38:04.580 --> 00:38:10.220
+Jennifer p: it's just not as… it's not as deep or thorough as what you showed, and you know what I mean? So it's not quite…
+
+225
+00:38:10.650 --> 00:38:13.549
+Shiva Kumar Chary Valaboju: Is it gonna generate an Excel file or something?
+
+226
+00:38:15.700 --> 00:38:21.080
+Jay Beladiya: I mean, I think… We could kind of try it.
+
+227
+00:38:21.870 --> 00:38:24.859
+Shiva Kumar Chary Valaboju: Yeah, if you can, you can do that instead of this one.
+
+228
+00:38:25.180 --> 00:38:32.610
+Shiva Kumar Chary Valaboju: if you're… if you're able to download an Excel file based on those compliances, or from the articles of those…
+
+229
+00:38:33.780 --> 00:38:39.699
+Shiva Kumar Chary Valaboju: You can just, like, there's no need of these regular metrics once you have… you can generate it through AI.
+
+230
+00:38:43.490 --> 00:38:44.639
+Shiva Kumar Chary Valaboju: from the code.
+
+231
+00:38:57.200 --> 00:38:58.559
+Jay Beladiya: What do y'all wanna do?
+
+232
+00:38:59.980 --> 00:39:02.290
+Jay Beladiya: Because I think last date is Benezer, right?
+
+233
+00:39:07.800 --> 00:39:14.390
+Shiva Kumar Chary Valaboju: Anyhow, I'm gonna share this Excel file, and I'm gonna submit my… I'll…
+
+234
+00:39:14.880 --> 00:39:19.720
+Shiva Kumar Chary Valaboju: sheets in it, and I'm gonna submit all my individual analysis.
+
+235
+00:39:20.130 --> 00:39:23.749
+Shiva Kumar Chary Valaboju: And we can start writing our final doubt.
+
+236
+00:39:34.810 --> 00:39:37.180
+Jay Beladiya: What do y'all want to keep the deadline as?
+
+237
+00:39:39.170 --> 00:39:43.959
+sukanya: Let's do one thing, Shiva. Upload that regulatory mattress to the GitHub.
+
+238
+00:39:43.960 --> 00:39:46.599
+Shiva Kumar Chary Valaboju: I'm doing that. I'm sharing with all of you guys, yeah.
+
+239
+00:39:46.600 --> 00:39:49.249
+sukanya: Yeah, then we'll add those, I mean.
+
+240
+00:39:49.250 --> 00:39:53.880
+Shiva Kumar Chary Valaboju: You can, you can, yeah, you can add your companies, and we can have, like.
+
+241
+00:39:53.880 --> 00:40:09.669
+sukanya: those policies things, and about the code of the Jennifer. So, I think she almost completed it. It is so easy to tell the differences, like, to find out the policies and something like that by seeing this code. So, we can…
+
+242
+00:40:09.960 --> 00:40:16.009
+sukanya: take this code help to write the doc, I think so, if you want to do that.
+
+243
+00:40:16.010 --> 00:40:21.139
+Jay Beladiya: Yeah, I think… I think that's a good idea as well. I think Jennifer's code can help us write the…
+
+244
+00:40:21.400 --> 00:40:21.960
+sukanya: the…
+
+245
+00:40:21.960 --> 00:40:23.519
+Jay Beladiya: Find the report better, yeah.
+
+246
+00:40:23.520 --> 00:40:24.250
+sukanya: Yeah.
+
+247
+00:40:25.700 --> 00:40:27.290
+sukanya: So, yes.
+
+248
+00:40:28.440 --> 00:40:38.919
+sukanya: then, can we meet tomorrow after uploading everything in the regulatory mattress? Then, we can find… we can talk about the finding things on Tuesday.
+
+249
+00:40:38.920 --> 00:40:42.930
+Shiva Kumar Chary Valaboju: And one more thing, we need to do our policy audit report as well.
+
+250
+00:40:44.540 --> 00:40:45.300
+Jay Beladiya: Yeah, there's a fun.
+
+251
+00:40:45.300 --> 00:40:47.110
+sukanya: Yeah, that's the final report.
+
+252
+00:40:47.110 --> 00:40:56.940
+Shiva Kumar Chary Valaboju: No, it's… it's different. Privacy Audit Report, and Regulatory Metrics Excel, and Findings.doc. These are the three files we need to add.
+
+253
+00:40:56.940 --> 00:41:01.669
+Jay Beladiya: Yeah, yeah, but yeah, the Excel file is different, and the policy audit report.
+
+254
+00:41:01.670 --> 00:41:05.020
+Shiva Kumar Chary Valaboju: Audit report is different, and final report is different.
+
+255
+00:41:06.950 --> 00:41:07.580
+sukanya: What is that?
+
+256
+00:41:07.580 --> 00:41:08.410
+Shiva Kumar Chary Valaboju: 1, 3, 5.
+
+257
+00:41:08.410 --> 00:41:09.970
+sukanya: to report on.
+
+258
+00:41:18.240 --> 00:41:21.470
+Shiva Kumar Chary Valaboju: It's like… Stating those…
+
+259
+00:41:21.750 --> 00:41:25.099
+Shiva Kumar Chary Valaboju: compliance is what I have shown in the Excel file.
+
+260
+00:41:29.300 --> 00:41:32.219
+Shiva Kumar Chary Valaboju: Like, saying that, giving, like, an…
+
+261
+00:41:32.420 --> 00:41:40.029
+Shiva Kumar Chary Valaboju: The report saying that, are those companies are, partially fulfilled those compliances or not?
+
+262
+00:41:40.670 --> 00:41:49.380
+Shiva Kumar Chary Valaboju: And, stating individual one, and, letting us know the recommendations for the improvements for those companies.
+
+263
+00:41:49.510 --> 00:41:51.170
+Shiva Kumar Chary Valaboju: To,
+
+264
+00:41:51.740 --> 00:42:09.299
+Shiva Kumar Chary Valaboju: Get, like, what, what can do, what can, those companies can do to get higher, like, kind of recommendations, and, what we learn from those policies and from our agreements, like, a final report stating.
+
+265
+00:42:09.770 --> 00:42:13.080
+Shiva Kumar Chary Valaboju: from the Excel, that's the,
+
+266
+00:42:13.640 --> 00:42:16.150
+Shiva Kumar Chary Valaboju: privacy audit report, I think, and…
+
+267
+00:42:16.910 --> 00:42:22.900
+Shiva Kumar Chary Valaboju: from this Excel file, and from the report, and from the individual analysis, we need to make a final report, so…
+
+268
+00:42:23.830 --> 00:42:24.710
+Shiva Kumar Chary Valaboju: Yeah.
+
+269
+00:42:26.100 --> 00:42:36.740
+Shiva Kumar Chary Valaboju: I made a, like, a kind of policy audit report for my companies. I'm gonna share those two, by the end of the day. You can have a look at it, and we can do it together, no problem.
+
+270
+00:42:40.420 --> 00:42:40.970
+sukanya: Okay.
+
+271
+00:42:40.970 --> 00:42:42.470
+Jay Beladiya: Do you want to meet again tomorrow?
+
+272
+00:42:42.800 --> 00:42:53.540
+sukanya: Yeah, then you can share the regulatory mattress. After adding that, then we can do that report thing after that, of by seeing the code and everything, then we can do.
+
+273
+00:42:53.540 --> 00:42:54.109
+Shiva Kumar Chary Valaboju: The final…
+
+274
+00:42:54.110 --> 00:42:55.870
+sukanya: You put on Tuesday.
+
+275
+00:42:56.200 --> 00:42:59.210
+Shiva Kumar Chary Valaboju: Yeah, you can check your mails, I have sent the Excel file.
+
+276
+00:43:00.060 --> 00:43:01.359
+Jay Beladiya: Jennifer, is that okay?
+
+277
+00:43:11.310 --> 00:43:13.359
+Jennifer p: Sorry, it was muted, yeah.
+
+278
+00:43:15.940 --> 00:43:23.199
+Jay Beladiya: Okay, so… We're adding all the companies in the Excel file, in Shiva's Excel file.
+
+279
+00:43:23.650 --> 00:43:31.069
+Jay Beladiya: And… By Tuesday, you said, right? When are we meeting next? Was it tomorrow, or was it Tuesday?
+
+280
+00:43:31.070 --> 00:43:33.239
+sukanya: We can meet on Tuesday.
+
+281
+00:43:33.540 --> 00:43:39.610
+Jay Beladiya: Okay, and then we can figure out the final report and the policy audit report?
+
+282
+00:43:41.750 --> 00:43:42.270
+sukanya: Yes.
+
+283
+00:43:44.010 --> 00:43:45.559
+Jay Beladiya: Okay, well.
+
+284
+00:43:45.560 --> 00:43:50.089
+Shiva Kumar Chary Valaboju: Actually, the reason for me saying to do, like, less companies is because…
+
+285
+00:43:50.650 --> 00:43:54.469
+Shiva Kumar Chary Valaboju: If a person choose 8 companies, we should, like…
+
+286
+00:43:54.630 --> 00:44:01.239
+Shiva Kumar Chary Valaboju: She'll write, like, 8 different analyses And 8 different,
+
+287
+00:44:01.420 --> 00:44:12.709
+Shiva Kumar Chary Valaboju: for those policies, what I said, for the GDPR or CCPA, stating that, are those companies did those or not. That's the reason I told you guys to choose, like, 2 or 3 or 4.
+
+288
+00:44:12.980 --> 00:44:14.340
+Shiva Kumar Chary Valaboju: So that it's gonna be easier.
+
+289
+00:44:14.340 --> 00:44:20.840
+Jay Beladiya: Therefore, per person to add in the final report, so I think, yeah, we'll just add 4.
+
+290
+00:44:21.340 --> 00:44:22.760
+Jay Beladiya: But I have to, like, write 8 of them.
+
+291
+00:44:22.760 --> 00:44:26.739
+Shiva Kumar Chary Valaboju: But you guys choose, like, 8 or something, like…
+
+292
+00:44:26.740 --> 00:44:32.269
+Jay Beladiya: It was for individual. I only uploaded for individual. I'm just gonna write 4 for the final.
+
+293
+00:44:32.520 --> 00:44:33.530
+Shiva Kumar Chary Valaboju: Yeah.
+
+294
+00:44:33.710 --> 00:44:35.520
+Shiva Kumar Chary Valaboju: Oh, okay, got you. Oh.
+
+295
+00:44:36.100 --> 00:44:39.669
+Shiva Kumar Chary Valaboju: So, I just thought of making it simple, and fast, and…
+
+296
+00:44:41.210 --> 00:44:41.930
+Jay Beladiya: Yeah.
+
+297
+00:44:42.240 --> 00:44:43.080
+Shiva Kumar Chary Valaboju: Yeah, that's it.
+
+298
+00:44:43.750 --> 00:44:49.649
+Shiva Kumar Chary Valaboju: So I've just gone through the report, he just asked us to do, go through those policies.
+
+299
+00:44:49.930 --> 00:44:54.340
+Shiva Kumar Chary Valaboju: And he said as to do an individual analysis, stating that, stating that
+
+300
+00:44:54.600 --> 00:44:57.329
+Shiva Kumar Chary Valaboju: What are the acts? What are the…
+
+301
+00:44:57.530 --> 00:45:01.200
+Shiva Kumar Chary Valaboju: Compliances, and what are these analyses?
+
+302
+00:45:01.340 --> 00:45:05.360
+Shiva Kumar Chary Valaboju: So, I just thought of focusing on those things.
+
+303
+00:45:05.920 --> 00:45:06.990
+Shiva Kumar Chary Valaboju: So, yeah.
+
+304
+00:45:09.200 --> 00:45:16.410
+Shiva Kumar Chary Valaboju: So, I think I will be uploading all those by, like, by the end of the day, or by the tomorrow morning.
+
+305
+00:45:16.860 --> 00:45:21.179
+Shiva Kumar Chary Valaboju: And you can just have a look at it, and you can do those, no problem, guys.
+
+306
+00:45:21.810 --> 00:45:25.839
+Jay Beladiya: Okay, so we're meeting on Tuesday, what time do y'all want to meet?
+
+307
+00:45:26.160 --> 00:45:29.310
+Shiva Kumar Chary Valaboju: Same, I think, over 10 or… 10, 15?
+
+308
+00:45:30.670 --> 00:45:31.899
+Jay Beladiya: Okay.
+
+309
+00:45:32.870 --> 00:45:34.490
+Jay Beladiya: Is everybody okay with it?
+
+310
+00:45:35.410 --> 00:45:44.480
+sukanya: Yeah, I'm fine. So, already sent the main Excel file to us?
+
+311
+00:45:44.900 --> 00:45:51.440
+Shiva Kumar Chary Valaboju: I already shared your… my Excel file to your mails, you can just accept it and you can view that.
+
+312
+00:45:52.010 --> 00:45:53.100
+sukanya: Oh, okay, okay.
+
+313
+00:45:53.100 --> 00:45:59.810
+Shiva Kumar Chary Valaboju: Yeah, there is one more sheet I need to upload it. I will do that by the end of the day or something, or by the tomorrow.
+
+314
+00:45:59.990 --> 00:46:02.590
+Shiva Kumar Chary Valaboju: That is, VCDPA compilence.
+
+315
+00:46:02.910 --> 00:46:04.389
+Shiva Kumar Chary Valaboju: I'm still working on it.
+
+316
+00:46:04.810 --> 00:46:05.620
+Jay Beladiya: Okay.
+
+317
+00:46:08.580 --> 00:46:11.280
+Jay Beladiya: Well, I guess… deal on Tuesday.
+
+318
+00:46:11.730 --> 00:46:12.420
+Shiva Kumar Chary Valaboju: Yeah.
+
+319
+00:46:15.880 --> 00:46:16.620
+Shiva Kumar Chary Valaboju: Bye there.
+
